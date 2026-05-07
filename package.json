@@ -1,0 +1,15 @@
+{
+  "name": "oneqrew-slidev-presentation-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev slides/index.md --open",
+    "build": "slidev build slides/index.md",
+    "export": "slidev export slides/index.md"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.14.0",
+    "@slidev/theme-default": "latest",
+    "playwright-chromium": "latest"
+  }
+}
