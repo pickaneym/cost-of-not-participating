@@ -51,5 +51,5 @@ sidebarTitle: Slide sidebar title
 sidebarCaption: Short sidebar caption
 sidebarBody:
   - Optional supporting text
-footerText: OneQrew Digital Services
+footerText: WTF Manila
 ```

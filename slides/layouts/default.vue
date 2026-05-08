@@ -20,7 +20,7 @@ const props = withDefaults(defineProps<{
   sidebarLogo: '/oneqrew-ds-logo-dark.svg',
   sidebarLogoAlt: 'OneQrew Digital Services logo',
   sidebarBodyImageAlt: 'Sidebar illustration',
-  footerText: 'OneQrew Digital Services',
+  footerText: 'WTF Manila',
 })
 
 const {

@@ -1,0 +1,1090 @@
+month,target_date,asset,asset_label,asset_date,price,selection,source
+2016-05,2016-05-20,sp500,S&P 500 price index,2016-05-20,2052.320000,exact_date,https://fred.stlouisfed.org/series/SP500
+2016-05,2016-05-20,nasdaq100,Nasdaq 100 price index,2016-05-20,4362.900000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2016-05,2016-05-20,bitcoin,Bitcoin USD price,2016-05-20,445.650000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2016-05,2016-05-20,psei,PSEI,2016-05-20,7299.029785,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2016-05,2016-05-20,jfc,Jollibee Foods Corporation,2016-05-20,235.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2016-05,2016-05-20,tsla,Tesla,2016-05-20,14.685333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2016-05,2016-05-20,aapl,Apple,2016-05-20,23.805000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2016-05,2016-05-20,msft,Microsoft,2016-05-20,50.619999,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2016-05,2016-05-20,nvda,NVIDIA,2016-05-20,1.108250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2016-06,2016-06-20,sp500,S&P 500 price index,2016-06-20,2083.250000,exact_date,https://fred.stlouisfed.org/series/SP500
+2016-06,2016-06-20,nasdaq100,Nasdaq 100 price index,2016-06-20,4400.160000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2016-06,2016-06-20,bitcoin,Bitcoin USD price,2016-06-20,703.120000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2016-06,2016-06-20,psei,PSEI,2016-06-20,7665.330078,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2016-06,2016-06-20,jfc,Jollibee Foods Corporation,2016-06-20,238.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2016-06,2016-06-20,tsla,Tesla,2016-06-20,14.646667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2016-06,2016-06-20,aapl,Apple,2016-06-20,23.775000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2016-06,2016-06-20,msft,Microsoft,2016-06-20,50.070000,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2016-06,2016-06-20,nvda,NVIDIA,2016-06-20,1.189000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2016-07,2016-07-20,sp500,S&P 500 price index,2016-07-20,2173.020000,exact_date,https://fred.stlouisfed.org/series/SP500
+2016-07,2016-07-20,nasdaq100,Nasdaq 100 price index,2016-07-20,4657.200000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2016-07,2016-07-20,bitcoin,Bitcoin USD price,2016-07-20,666.920000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2016-07,2016-07-20,psei,PSEI,2016-07-20,8051.970215,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2016-07,2016-07-20,jfc,Jollibee Foods Corporation,2016-07-20,250.400000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2016-07,2016-07-20,tsla,Tesla,2016-07-20,15.224000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2016-07,2016-07-20,aapl,Apple,2016-07-20,24.990000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2016-07,2016-07-20,msft,Microsoft,2016-07-20,55.910000,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2016-07,2016-07-20,nvda,NVIDIA,2016-07-20,1.355500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2016-08,2016-08-19,sp500,S&P 500 price index,2016-08-19,2183.870000,exact_date,https://fred.stlouisfed.org/series/SP500
+2016-08,2016-08-19,nasdaq100,Nasdaq 100 price index,2016-08-19,4806.140000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2016-08,2016-08-19,bitcoin,Bitcoin USD price,2016-08-19,573.670000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2016-08,2016-08-19,psei,PSEI,2016-08-19,7930.750000,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2016-08,2016-08-19,jfc,Jollibee Foods Corporation,2016-08-19,252.600000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2016-08,2016-08-19,tsla,Tesla,2016-08-19,15.000000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2016-08,2016-08-19,aapl,Apple,2016-08-19,27.340000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2016-08,2016-08-19,msft,Microsoft,2016-08-19,57.619999,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2016-08,2016-08-19,nvda,NVIDIA,2016-08-19,1.556500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2016-09,2016-09-20,sp500,S&P 500 price index,2016-09-20,2139.760000,exact_date,https://fred.stlouisfed.org/series/SP500
+2016-09,2016-09-20,nasdaq100,Nasdaq 100 price index,2016-09-20,4805.220000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2016-09,2016-09-20,bitcoin,Bitcoin USD price,2016-09-20,605.600000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2016-09,2016-09-20,psei,PSEI,2016-09-20,7671.720215,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2016-09,2016-09-20,jfc,Jollibee Foods Corporation,2016-09-20,248.600000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2016-09,2016-09-20,tsla,Tesla,2016-09-20,13.642667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2016-09,2016-09-20,aapl,Apple,2016-09-20,28.392500,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2016-09,2016-09-20,msft,Microsoft,2016-09-20,56.810001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2016-09,2016-09-20,nvda,NVIDIA,2016-09-20,1.577250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2016-10,2016-10-20,sp500,S&P 500 price index,2016-10-20,2141.340000,exact_date,https://fred.stlouisfed.org/series/SP500
+2016-10,2016-10-20,nasdaq100,Nasdaq 100 price index,2016-10-20,4832.710000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2016-10,2016-10-20,bitcoin,Bitcoin USD price,2016-10-20,628.050000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2016-10,2016-10-20,psei,PSEI,2016-10-20,7713.319824,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2016-10,2016-10-20,jfc,Jollibee Foods Corporation,2016-10-20,248.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2016-10,2016-10-20,tsla,Tesla,2016-10-20,13.273333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2016-10,2016-10-20,aapl,Apple,2016-10-20,29.264999,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2016-10,2016-10-20,msft,Microsoft,2016-10-20,57.250000,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2016-10,2016-10-20,nvda,NVIDIA,2016-10-20,1.693250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2016-11,2016-11-18,sp500,S&P 500 price index,2016-11-18,2181.900000,exact_date,https://fred.stlouisfed.org/series/SP500
+2016-11,2016-11-18,nasdaq100,Nasdaq 100 price index,2016-11-18,4808.040000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2016-11,2016-11-18,bitcoin,Bitcoin USD price,2016-11-18,748.540000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2016-11,2016-11-18,psei,PSEI,2016-11-18,7067.729980,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2016-11,2016-11-18,jfc,Jollibee Foods Corporation,2016-11-18,209.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2016-11,2016-11-18,tsla,Tesla,2016-11-18,12.334667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2016-11,2016-11-18,aapl,Apple,2016-11-18,27.514999,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2016-11,2016-11-18,msft,Microsoft,2016-11-18,60.349998,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2016-11,2016-11-18,nvda,NVIDIA,2016-11-18,2.334000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2016-12,2016-12-20,sp500,S&P 500 price index,2016-12-20,2270.760000,exact_date,https://fred.stlouisfed.org/series/SP500
+2016-12,2016-12-20,nasdaq100,Nasdaq 100 price index,2016-12-20,4953.800000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2016-12,2016-12-20,bitcoin,Bitcoin USD price,2016-12-20,798.990000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2016-12,2016-12-20,psei,PSEI,2016-12-20,6658.660156,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2016-12,2016-12-20,jfc,Jollibee Foods Corporation,2016-12-20,195.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2016-12,2016-12-20,tsla,Tesla,2016-12-20,13.919333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2016-12,2016-12-20,aapl,Apple,2016-12-20,29.237499,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2016-12,2016-12-20,msft,Microsoft,2016-12-20,63.540001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2016-12,2016-12-20,nvda,NVIDIA,2016-12-20,2.629250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-01,2017-01-20,sp500,S&P 500 price index,2017-01-20,2271.310000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-01,2017-01-20,nasdaq100,Nasdaq 100 price index,2017-01-20,5063.200000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-01,2017-01-20,bitcoin,Bitcoin USD price,2017-01-20,894.310000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-01,2017-01-20,psei,PSEI,2017-01-20,7232.660156,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-01,2017-01-20,jfc,Jollibee Foods Corporation,2017-01-20,203.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-01,2017-01-20,tsla,Tesla,2017-01-20,16.315332,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-01,2017-01-20,aapl,Apple,2017-01-20,30.000000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-01,2017-01-20,msft,Microsoft,2017-01-20,62.740002,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-01,2017-01-20,nvda,NVIDIA,2017-01-20,2.600250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-02,2017-02-20,sp500,S&P 500 price index,2017-02-17,2351.160000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/SP500
+2017-02,2017-02-20,nasdaq100,Nasdaq 100 price index,2017-02-17,5324.720000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/NASDAQ100
+2017-02,2017-02-20,bitcoin,Bitcoin USD price,2017-02-20,1089.820000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-02,2017-02-20,psei,PSEI,2017-02-20,7281.189941,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-02,2017-02-20,jfc,Jollibee Foods Corporation,2017-02-20,205.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-02,2017-02-20,tsla,Tesla,2017-02-17,18.148666,nearest_prior_trading_day,https://finance.yahoo.com/quote/TSLA/history
+2017-02,2017-02-20,aapl,Apple,2017-02-17,33.930000,nearest_prior_trading_day,https://finance.yahoo.com/quote/AAPL/history
+2017-02,2017-02-20,msft,Microsoft,2017-02-17,64.620003,nearest_prior_trading_day,https://finance.yahoo.com/quote/MSFT/history
+2017-02,2017-02-20,nvda,NVIDIA,2017-02-17,2.680750,nearest_prior_trading_day,https://finance.yahoo.com/quote/NVDA/history
+2017-03,2017-03-20,sp500,S&P 500 price index,2017-03-20,2373.470000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-03,2017-03-20,nasdaq100,Nasdaq 100 price index,2017-03-20,5413.310000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-03,2017-03-20,bitcoin,Bitcoin USD price,2017-03-20,1044.960000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-03,2017-03-20,psei,PSEI,2017-03-20,7316.569824,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-03,2017-03-20,jfc,Jollibee Foods Corporation,2017-03-20,192.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-03,2017-03-20,tsla,Tesla,2017-03-20,17.461332,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-03,2017-03-20,aapl,Apple,2017-03-20,35.365002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-03,2017-03-20,msft,Microsoft,2017-03-20,64.930000,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-03,2017-03-20,nvda,NVIDIA,2017-03-20,2.736250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-04,2017-04-20,sp500,S&P 500 price index,2017-04-20,2355.840000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-04,2017-04-20,nasdaq100,Nasdaq 100 price index,2017-04-20,5443.530000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-04,2017-04-20,bitcoin,Bitcoin USD price,2017-04-20,1236.150000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-04,2017-04-20,psei,PSEI,2017-04-20,7563.450195,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-04,2017-04-20,jfc,Jollibee Foods Corporation,2017-04-20,205.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-04,2017-04-20,tsla,Tesla,2017-04-20,20.167334,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-04,2017-04-20,aapl,Apple,2017-04-20,35.610001,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-04,2017-04-20,msft,Microsoft,2017-04-20,65.500000,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-04,2017-04-20,nvda,NVIDIA,2017-04-20,2.531500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-05,2017-05-19,sp500,S&P 500 price index,2017-05-19,2381.730000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-05,2017-05-19,nasdaq100,Nasdaq 100 price index,2017-05-19,5651.560000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-05,2017-05-19,bitcoin,Bitcoin USD price,2017-05-19,1976.230000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-05,2017-05-19,psei,PSEI,2017-05-19,7767.620117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-05,2017-05-19,jfc,Jollibee Foods Corporation,2017-05-19,203.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-05,2017-05-19,tsla,Tesla,2017-05-19,20.722000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-05,2017-05-19,aapl,Apple,2017-05-19,38.264999,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-05,2017-05-19,msft,Microsoft,2017-05-19,67.690002,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-05,2017-05-19,nvda,NVIDIA,2017-05-19,3.400000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-06,2017-06-20,sp500,S&P 500 price index,2017-06-20,2437.030000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-06,2017-06-20,nasdaq100,Nasdaq 100 price index,2017-06-20,5726.310000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-06,2017-06-20,bitcoin,Bitcoin USD price,2017-06-20,2725.080000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-06,2017-06-20,psei,PSEI,2017-06-20,7917.859863,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-06,2017-06-20,jfc,Jollibee Foods Corporation,2017-06-20,215.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-06,2017-06-20,tsla,Tesla,2017-06-20,24.816000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-06,2017-06-20,aapl,Apple,2017-06-20,36.252499,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-06,2017-06-20,msft,Microsoft,2017-06-20,69.910004,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-06,2017-06-20,nvda,NVIDIA,2017-06-20,3.927250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-07,2017-07-20,sp500,S&P 500 price index,2017-07-20,2473.450000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-07,2017-07-20,nasdaq100,Nasdaq 100 price index,2017-07-20,5921.220000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-07,2017-07-20,bitcoin,Bitcoin USD price,2017-07-20,2873.480000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-07,2017-07-20,psei,PSEI,2017-07-20,7904.339844,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-07,2017-07-20,jfc,Jollibee Foods Corporation,2017-07-20,220.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-07,2017-07-20,tsla,Tesla,2017-07-20,21.994667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-07,2017-07-20,aapl,Apple,2017-07-20,37.584999,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-07,2017-07-20,msft,Microsoft,2017-07-20,74.220001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-07,2017-07-20,nvda,NVIDIA,2017-07-20,4.187500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-08,2017-08-18,sp500,S&P 500 price index,2017-08-18,2425.550000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-08,2017-08-18,nasdaq100,Nasdaq 100 price index,2017-08-18,5790.910000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-08,2017-08-18,bitcoin,Bitcoin USD price,2017-08-18,4101.720000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-08,2017-08-18,psei,PSEI,2017-08-18,8016.729980,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-08,2017-08-18,jfc,Jollibee Foods Corporation,2017-08-18,235.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-08,2017-08-18,tsla,Tesla,2017-08-18,23.164000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-08,2017-08-18,aapl,Apple,2017-08-18,39.375000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-08,2017-08-18,msft,Microsoft,2017-08-18,72.489998,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-08,2017-08-18,nvda,NVIDIA,2017-08-18,4.037500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-09,2017-09-20,sp500,S&P 500 price index,2017-09-20,2508.240000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-09,2017-09-20,nasdaq100,Nasdaq 100 price index,2017-09-20,5973.600000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-09,2017-09-20,bitcoin,Bitcoin USD price,2017-09-20,3872.060000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-09,2017-09-20,psei,PSEI,2017-09-20,8219.320312,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-09,2017-09-20,jfc,Jollibee Foods Corporation,2017-09-20,242.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-09,2017-09-20,tsla,Tesla,2017-09-20,24.927334,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-09,2017-09-20,aapl,Apple,2017-09-20,39.017502,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-09,2017-09-20,msft,Microsoft,2017-09-20,74.940002,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-09,2017-09-20,nvda,NVIDIA,2017-09-20,4.646000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-10,2017-10-20,sp500,S&P 500 price index,2017-10-20,2575.210000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-10,2017-10-20,nasdaq100,Nasdaq 100 price index,2017-10-20,6108.820000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-10,2017-10-20,bitcoin,Bitcoin USD price,2017-10-20,5989.100000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-10,2017-10-20,psei,PSEI,2017-10-20,8420.950195,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-10,2017-10-20,jfc,Jollibee Foods Corporation,2017-10-20,246.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-10,2017-10-20,tsla,Tesla,2017-10-20,23.006666,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-10,2017-10-20,aapl,Apple,2017-10-20,39.062500,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-10,2017-10-20,msft,Microsoft,2017-10-20,78.809998,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-10,2017-10-20,nvda,NVIDIA,2017-10-20,4.922500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-11,2017-11-20,sp500,S&P 500 price index,2017-11-20,2582.140000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-11,2017-11-20,nasdaq100,Nasdaq 100 price index,2017-11-20,6308.610000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-11,2017-11-20,bitcoin,Bitcoin USD price,2017-11-20,8256.010000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-11,2017-11-20,psei,PSEI,2017-11-20,8321.980469,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-11,2017-11-20,jfc,Jollibee Foods Corporation,2017-11-20,257.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-11,2017-11-20,tsla,Tesla,2017-11-20,20.582666,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-11,2017-11-20,aapl,Apple,2017-11-20,42.494999,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-11,2017-11-20,msft,Microsoft,2017-11-20,82.529999,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-11,2017-11-20,nvda,NVIDIA,2017-11-20,5.352000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2017-12,2017-12-20,sp500,S&P 500 price index,2017-12-20,2679.250000,exact_date,https://fred.stlouisfed.org/series/SP500
+2017-12,2017-12-20,nasdaq100,Nasdaq 100 price index,2017-12-20,6472.480000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2017-12,2017-12-20,bitcoin,Bitcoin USD price,2017-12-20,16496.890000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2017-12,2017-12-20,psei,PSEI,2017-12-20,8362.610352,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2017-12,2017-12-20,jfc,Jollibee Foods Corporation,2017-12-20,243.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2017-12,2017-12-20,tsla,Tesla,2017-12-20,21.931999,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2017-12,2017-12-20,aapl,Apple,2017-12-20,43.587502,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2017-12,2017-12-20,msft,Microsoft,2017-12-20,85.519997,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2017-12,2017-12-20,nvda,NVIDIA,2017-12-20,4.920000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-01,2018-01-19,sp500,S&P 500 price index,2018-01-19,2810.300000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-01,2018-01-19,nasdaq100,Nasdaq 100 price index,2018-01-19,6834.330000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-01,2018-01-19,bitcoin,Bitcoin USD price,2018-01-19,11498.990000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-01,2018-01-19,psei,PSEI,2018-01-19,8915.919922,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-01,2018-01-19,jfc,Jollibee Foods Corporation,2018-01-19,280.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-01,2018-01-19,tsla,Tesla,2018-01-19,23.334667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-01,2018-01-19,aapl,Apple,2018-01-19,44.615002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-01,2018-01-19,msft,Microsoft,2018-01-19,90.000000,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-01,2018-01-19,nvda,NVIDIA,2018-01-19,5.752750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-02,2018-02-20,sp500,S&P 500 price index,2018-02-20,2716.260000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-02,2018-02-20,nasdaq100,Nasdaq 100 price index,2018-02-20,6779.690000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-02,2018-02-20,bitcoin,Bitcoin USD price,2018-02-20,11235.570000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-02,2018-02-20,psei,PSEI,2018-02-20,8722.700195,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-02,2018-02-20,jfc,Jollibee Foods Corporation,2018-02-20,286.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-02,2018-02-20,tsla,Tesla,2018-02-20,22.318001,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-02,2018-02-20,aapl,Apple,2018-02-20,42.962502,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-02,2018-02-20,msft,Microsoft,2018-02-20,92.720001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-02,2018-02-20,nvda,NVIDIA,2018-02-20,6.227000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-03,2018-03-20,sp500,S&P 500 price index,2018-03-20,2716.940000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-03,2018-03-20,nasdaq100,Nasdaq 100 price index,2018-03-20,6885.920000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-03,2018-03-20,bitcoin,Bitcoin USD price,2018-03-20,8900.000000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-03,2018-03-20,psei,PSEI,2018-03-20,8059.600098,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-03,2018-03-20,jfc,Jollibee Foods Corporation,2018-03-20,286.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-03,2018-03-20,tsla,Tesla,2018-03-20,20.703333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-03,2018-03-20,aapl,Apple,2018-03-20,43.810001,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-03,2018-03-20,msft,Microsoft,2018-03-20,93.129997,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-03,2018-03-20,nvda,NVIDIA,2018-03-20,6.239500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-04,2018-04-20,sp500,S&P 500 price index,2018-04-20,2670.140000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-04,2018-04-20,nasdaq100,Nasdaq 100 price index,2018-04-20,6667.750000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-04,2018-04-20,bitcoin,Bitcoin USD price,2018-04-20,8866.270000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-04,2018-04-20,psei,PSEI,2018-04-20,7726.720215,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-04,2018-04-20,jfc,Jollibee Foods Corporation,2018-04-20,291.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-04,2018-04-20,tsla,Tesla,2018-04-20,19.349333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-04,2018-04-20,aapl,Apple,2018-04-20,41.430000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-04,2018-04-20,msft,Microsoft,2018-04-20,95.000000,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-04,2018-04-20,nvda,NVIDIA,2018-04-20,5.717750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-05,2018-05-18,sp500,S&P 500 price index,2018-05-18,2712.970000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-05,2018-05-18,nasdaq100,Nasdaq 100 price index,2018-05-18,6866.250000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-05,2018-05-18,bitcoin,Bitcoin USD price,2018-05-18,8238.510000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-05,2018-05-18,psei,PSEI,2018-05-18,7672.279785,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-05,2018-05-18,jfc,Jollibee Foods Corporation,2018-05-18,285.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-05,2018-05-18,tsla,Tesla,2018-05-18,18.454666,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-05,2018-05-18,aapl,Apple,2018-05-18,46.577499,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-05,2018-05-18,msft,Microsoft,2018-05-18,96.360001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-05,2018-05-18,nvda,NVIDIA,2018-05-18,6.148500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-06,2018-06-20,sp500,S&P 500 price index,2018-06-20,2767.320000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-06,2018-06-20,nasdaq100,Nasdaq 100 price index,2018-06-20,7280.700000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-06,2018-06-20,bitcoin,Bitcoin USD price,2018-06-20,6756.100000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-06,2018-06-20,psei,PSEI,2018-06-20,7261.620117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-06,2018-06-20,jfc,Jollibee Foods Corporation,2018-06-20,279.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-06,2018-06-20,tsla,Tesla,2018-06-20,24.148001,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-06,2018-06-20,aapl,Apple,2018-06-20,46.625000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-06,2018-06-20,msft,Microsoft,2018-06-20,101.870003,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-06,2018-06-20,nvda,NVIDIA,2018-06-20,6.557750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-07,2018-07-20,sp500,S&P 500 price index,2018-07-20,2801.830000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-07,2018-07-20,nasdaq100,Nasdaq 100 price index,2018-07-20,7350.230000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-07,2018-07-20,bitcoin,Bitcoin USD price,2018-07-20,7334.460000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-07,2018-07-20,psei,PSEI,2018-07-20,7399.609863,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-07,2018-07-20,jfc,Jollibee Foods Corporation,2018-07-20,250.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-07,2018-07-20,tsla,Tesla,2018-07-20,20.905333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-07,2018-07-20,aapl,Apple,2018-07-20,47.860001,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-07,2018-07-20,msft,Microsoft,2018-07-20,106.269997,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-07,2018-07-20,nvda,NVIDIA,2018-07-20,6.272250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-08,2018-08-20,sp500,S&P 500 price index,2018-08-20,2857.050000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-08,2018-08-20,nasdaq100,Nasdaq 100 price index,2018-08-20,7371.420000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-08,2018-08-20,bitcoin,Bitcoin USD price,2018-08-20,6258.740000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-08,2018-08-20,psei,PSEI,2018-08-20,7500.529785,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-08,2018-08-20,jfc,Jollibee Foods Corporation,2018-08-20,273.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-08,2018-08-20,tsla,Tesla,2018-08-20,20.562668,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-08,2018-08-20,aapl,Apple,2018-08-20,53.865002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-08,2018-08-20,msft,Microsoft,2018-08-20,106.870003,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-08,2018-08-20,nvda,NVIDIA,2018-08-20,6.196000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-09,2018-09-20,sp500,S&P 500 price index,2018-09-20,2930.750000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-09,2018-09-20,nasdaq100,Nasdaq 100 price index,2018-09-20,7569.030000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-09,2018-09-20,bitcoin,Bitcoin USD price,2018-09-20,6493.110000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-09,2018-09-20,psei,PSEI,2018-09-20,7134.729980,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-09,2018-09-20,jfc,Jollibee Foods Corporation,2018-09-20,271.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-09,2018-09-20,tsla,Tesla,2018-09-20,19.888666,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-09,2018-09-20,aapl,Apple,2018-09-20,55.007500,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-09,2018-09-20,msft,Microsoft,2018-09-20,113.570000,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-09,2018-09-20,nvda,NVIDIA,2018-09-20,6.657000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-10,2018-10-19,sp500,S&P 500 price index,2018-10-19,2767.780000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-10,2018-10-19,nasdaq100,Nasdaq 100 price index,2018-10-19,7107.230000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-10,2018-10-19,bitcoin,Bitcoin USD price,2018-10-19,6382.990000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-10,2018-10-19,psei,PSEI,2018-10-19,7151.520020,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-10,2018-10-19,jfc,Jollibee Foods Corporation,2018-10-19,265.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-10,2018-10-19,tsla,Tesla,2018-10-19,17.333332,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-10,2018-10-19,aapl,Apple,2018-10-19,54.827499,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-10,2018-10-19,msft,Microsoft,2018-10-19,108.660004,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-10,2018-10-19,nvda,NVIDIA,2018-10-19,5.729250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-11,2018-11-20,sp500,S&P 500 price index,2018-11-20,2641.890000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-11,2018-11-20,nasdaq100,Nasdaq 100 price index,2018-11-20,6526.960000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-11,2018-11-20,bitcoin,Bitcoin USD price,2018-11-20,4349.230000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-11,2018-11-20,psei,PSEI,2018-11-20,7302.939941,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-11,2018-11-20,jfc,Jollibee Foods Corporation,2018-11-20,279.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-11,2018-11-20,tsla,Tesla,2018-11-20,23.166000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-11,2018-11-20,aapl,Apple,2018-11-20,44.244999,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-11,2018-11-20,msft,Microsoft,2018-11-20,101.709999,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-11,2018-11-20,nvda,NVIDIA,2018-11-20,3.727000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2018-12,2018-12-20,sp500,S&P 500 price index,2018-12-20,2467.420000,exact_date,https://fred.stlouisfed.org/series/SP500
+2018-12,2018-12-20,nasdaq100,Nasdaq 100 price index,2018-12-20,6243.190000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2018-12,2018-12-20,bitcoin,Bitcoin USD price,2018-12-20,4075.340000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2018-12,2018-12-20,psei,PSEI,2018-12-20,7563.410156,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2018-12,2018-12-20,jfc,Jollibee Foods Corporation,2018-12-20,303.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2018-12,2018-12-20,tsla,Tesla,2018-12-20,21.025333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2018-12,2018-12-20,aapl,Apple,2018-12-20,39.207500,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2018-12,2018-12-20,msft,Microsoft,2018-12-20,101.510002,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2018-12,2018-12-20,nvda,NVIDIA,2018-12-20,3.377500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-01,2019-01-18,sp500,S&P 500 price index,2019-01-18,2670.710000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-01,2019-01-18,nasdaq100,Nasdaq 100 price index,2019-01-18,6784.610000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-01,2019-01-18,bitcoin,Bitcoin USD price,2019-01-18,3607.850000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-01,2019-01-18,psei,PSEI,2019-01-18,8047.120117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-01,2019-01-18,jfc,Jollibee Foods Corporation,2019-01-18,324.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-01,2019-01-18,tsla,Tesla,2019-01-18,20.150667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-01,2019-01-18,aapl,Apple,2019-01-18,39.205002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-01,2019-01-18,msft,Microsoft,2019-01-18,107.709999,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-01,2019-01-18,nvda,NVIDIA,2019-01-18,3.923250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-02,2019-02-20,sp500,S&P 500 price index,2019-02-20,2784.700000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-02,2019-02-20,nasdaq100,Nasdaq 100 price index,2019-02-20,7062.340000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-02,2019-02-20,bitcoin,Bitcoin USD price,2019-02-20,3938.990000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-02,2019-02-20,psei,PSEI,2019-02-20,7939.240234,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-02,2019-02-20,jfc,Jollibee Foods Corporation,2019-02-20,310.400000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-02,2019-02-20,tsla,Tesla,2019-02-20,20.170668,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-02,2019-02-20,aapl,Apple,2019-02-20,43.007500,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-02,2019-02-20,msft,Microsoft,2019-02-20,107.150002,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-02,2019-02-20,nvda,NVIDIA,2019-02-20,3.963750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-03,2019-03-20,sp500,S&P 500 price index,2019-03-20,2824.230000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-03,2019-03-20,nasdaq100,Nasdaq 100 price index,2019-03-20,7380.750000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-03,2019-03-20,bitcoin,Bitcoin USD price,2019-03-20,4031.850000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-03,2019-03-20,psei,PSEI,2019-03-20,7858.200195,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-03,2019-03-20,jfc,Jollibee Foods Corporation,2019-03-20,313.600000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-03,2019-03-20,tsla,Tesla,2019-03-20,18.240000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-03,2019-03-20,aapl,Apple,2019-03-20,47.040001,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-03,2019-03-20,msft,Microsoft,2019-03-20,117.519997,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-03,2019-03-20,nvda,NVIDIA,2019-03-20,4.360000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-04,2019-04-17,sp500,S&P 500 price index,2019-04-17,2900.450000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-04,2019-04-17,nasdaq100,Nasdaq 100 price index,2019-04-17,7680.720000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-04,2019-04-17,bitcoin,Bitcoin USD price,2019-04-17,5227.000000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-04,2019-04-17,psei,PSEI,2019-04-17,7835.149902,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-04,2019-04-17,jfc,Jollibee Foods Corporation,2019-04-17,304.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-04,2019-04-17,tsla,Tesla,2019-04-17,18.082001,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-04,2019-04-17,aapl,Apple,2019-04-17,50.782501,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-04,2019-04-17,msft,Microsoft,2019-04-17,121.769997,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-04,2019-04-17,nvda,NVIDIA,2019-04-17,4.682250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-05,2019-05-20,sp500,S&P 500 price index,2019-05-20,2840.230000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-05,2019-05-20,nasdaq100,Nasdaq 100 price index,2019-05-20,7376.700000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-05,2019-05-20,bitcoin,Bitcoin USD price,2019-05-20,7999.540000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-05,2019-05-20,psei,PSEI,2019-05-20,7660.140137,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-05,2019-05-20,jfc,Jollibee Foods Corporation,2019-05-20,274.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-05,2019-05-20,tsla,Tesla,2019-05-20,13.690667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-05,2019-05-20,aapl,Apple,2019-05-20,45.772499,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-05,2019-05-20,msft,Microsoft,2019-05-20,126.220001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-05,2019-05-20,nvda,NVIDIA,2019-05-20,3.793750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-06,2019-06-20,sp500,S&P 500 price index,2019-06-20,2954.180000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-06,2019-06-20,nasdaq100,Nasdaq 100 price index,2019-06-20,7738.050000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-06,2019-06-20,bitcoin,Bitcoin USD price,2019-06-20,9542.600000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-06,2019-06-20,psei,PSEI,2019-06-20,8022.419922,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-06,2019-06-20,jfc,Jollibee Foods Corporation,2019-06-20,284.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-06,2019-06-20,tsla,Tesla,2019-06-20,14.641333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-06,2019-06-20,aapl,Apple,2019-06-20,49.865002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-06,2019-06-20,msft,Microsoft,2019-06-20,136.949997,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-06,2019-06-20,nvda,NVIDIA,2019-06-20,3.852500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-07,2019-07-19,sp500,S&P 500 price index,2019-07-19,2976.610000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-07,2019-07-19,nasdaq100,Nasdaq 100 price index,2019-07-19,7834.900000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-07,2019-07-19,bitcoin,Bitcoin USD price,2019-07-19,10548.040000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-07,2019-07-19,psei,PSEI,2019-07-19,8270.070312,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-07,2019-07-19,jfc,Jollibee Foods Corporation,2019-07-19,279.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-07,2019-07-19,tsla,Tesla,2019-07-19,17.212000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-07,2019-07-19,aapl,Apple,2019-07-19,50.647499,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-07,2019-07-19,msft,Microsoft,2019-07-19,136.619995,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-07,2019-07-19,nvda,NVIDIA,2019-07-19,4.211000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-08,2019-08-20,sp500,S&P 500 price index,2019-08-20,2900.510000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-08,2019-08-20,nasdaq100,Nasdaq 100 price index,2019-08-20,7664.470000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-08,2019-08-20,bitcoin,Bitcoin USD price,2019-08-20,10770.990000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-08,2019-08-20,psei,PSEI,2019-08-20,7886.910156,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-08,2019-08-20,jfc,Jollibee Foods Corporation,2019-08-20,225.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-08,2019-08-20,tsla,Tesla,2019-08-20,15.057333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-08,2019-08-20,aapl,Apple,2019-08-20,52.590000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-08,2019-08-20,msft,Microsoft,2019-08-20,137.259995,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-08,2019-08-20,nvda,NVIDIA,2019-08-20,4.196750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-09,2019-09-20,sp500,S&P 500 price index,2019-09-20,2992.070000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-09,2019-09-20,nasdaq100,Nasdaq 100 price index,2019-09-20,7823.550000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-09,2019-09-20,bitcoin,Bitcoin USD price,2019-09-20,10168.440000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-09,2019-09-20,psei,PSEI,2019-09-20,7871.109863,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-09,2019-09-20,jfc,Jollibee Foods Corporation,2019-09-20,220.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-09,2019-09-20,tsla,Tesla,2019-09-20,16.041332,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-09,2019-09-20,aapl,Apple,2019-09-20,54.432499,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-09,2019-09-20,msft,Microsoft,2019-09-20,139.440002,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-09,2019-09-20,nvda,NVIDIA,2019-09-20,4.317250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-10,2019-10-18,sp500,S&P 500 price index,2019-10-18,2986.200000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-10,2019-10-18,nasdaq100,Nasdaq 100 price index,2019-10-18,7868.490000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-10,2019-10-18,bitcoin,Bitcoin USD price,2019-10-18,7954.160000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-10,2019-10-18,psei,PSEI,2019-10-18,7885.229980,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-10,2019-10-18,jfc,Jollibee Foods Corporation,2019-10-18,230.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-10,2019-10-18,tsla,Tesla,2019-10-18,17.129999,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-10,2019-10-18,aapl,Apple,2019-10-18,59.102501,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-10,2019-10-18,msft,Microsoft,2019-10-18,137.410004,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-10,2019-10-18,nvda,NVIDIA,2019-10-18,4.762250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-11,2019-11-20,sp500,S&P 500 price index,2019-11-20,3108.460000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-11,2019-11-20,nasdaq100,Nasdaq 100 price index,2019-11-20,8283.750000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-11,2019-11-20,bitcoin,Bitcoin USD price,2019-11-20,8082.960000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-11,2019-11-20,psei,PSEI,2019-11-20,7898.060059,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-11,2019-11-20,jfc,Jollibee Foods Corporation,2019-11-20,204.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-11,2019-11-20,tsla,Tesla,2019-11-20,23.481333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-11,2019-11-20,aapl,Apple,2019-11-20,65.797501,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-11,2019-11-20,msft,Microsoft,2019-11-20,149.619995,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-11,2019-11-20,nvda,NVIDIA,2019-11-20,5.279500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2019-12,2019-12-20,sp500,S&P 500 price index,2019-12-20,3221.220000,exact_date,https://fred.stlouisfed.org/series/SP500
+2019-12,2019-12-20,nasdaq100,Nasdaq 100 price index,2019-12-20,8678.490000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2019-12,2019-12-20,bitcoin,Bitcoin USD price,2019-12-20,7189.870000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2019-12,2019-12-20,psei,PSEI,2019-12-20,7773.120117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2019-12,2019-12-20,jfc,Jollibee Foods Corporation,2019-12-20,213.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2019-12,2019-12-20,tsla,Tesla,2019-12-20,27.039333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2019-12,2019-12-20,aapl,Apple,2019-12-20,69.860001,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2019-12,2019-12-20,msft,Microsoft,2019-12-20,157.410004,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2019-12,2019-12-20,nvda,NVIDIA,2019-12-20,5.984250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-01,2020-01-20,sp500,S&P 500 price index,2020-01-17,3329.620000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/SP500
+2020-01,2020-01-20,nasdaq100,Nasdaq 100 price index,2020-01-17,9173.730000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/NASDAQ100
+2020-01,2020-01-20,bitcoin,Bitcoin USD price,2020-01-20,8633.670000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-01,2020-01-20,psei,PSEI,2020-01-20,7552.600098,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-01,2020-01-20,jfc,Jollibee Foods Corporation,2020-01-20,212.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-01,2020-01-20,tsla,Tesla,2020-01-17,34.033333,nearest_prior_trading_day,https://finance.yahoo.com/quote/TSLA/history
+2020-01,2020-01-20,aapl,Apple,2020-01-17,79.682503,nearest_prior_trading_day,https://finance.yahoo.com/quote/AAPL/history
+2020-01,2020-01-20,msft,Microsoft,2020-01-17,167.100006,nearest_prior_trading_day,https://finance.yahoo.com/quote/MSFT/history
+2020-01,2020-01-20,nvda,NVIDIA,2020-01-17,6.232000,nearest_prior_trading_day,https://finance.yahoo.com/quote/NVDA/history
+2020-02,2020-02-20,sp500,S&P 500 price index,2020-02-20,3373.230000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-02,2020-02-20,nasdaq100,Nasdaq 100 price index,2020-02-20,9627.830000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-02,2020-02-20,bitcoin,Bitcoin USD price,2020-02-20,9610.050000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-02,2020-02-20,psei,PSEI,2020-02-20,7413.000000,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-02,2020-02-20,jfc,Jollibee Foods Corporation,2020-02-20,188.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-02,2020-02-20,tsla,Tesla,2020-02-20,59.960667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-02,2020-02-20,aapl,Apple,2020-02-20,80.074997,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-02,2020-02-20,msft,Microsoft,2020-02-20,184.419998,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-02,2020-02-20,nvda,NVIDIA,2020-02-20,7.717500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-03,2020-03-20,sp500,S&P 500 price index,2020-03-20,2304.920000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-03,2020-03-20,nasdaq100,Nasdaq 100 price index,2020-03-20,6994.290000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-03,2020-03-20,bitcoin,Bitcoin USD price,2020-03-20,6215.400000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-03,2020-03-20,psei,PSEI,2020-03-20,4778.759766,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-03,2020-03-20,jfc,Jollibee Foods Corporation,2020-03-20,100.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-03,2020-03-20,tsla,Tesla,2020-03-20,28.502001,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-03,2020-03-20,aapl,Apple,2020-03-20,57.310001,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-03,2020-03-20,msft,Microsoft,2020-03-20,137.350006,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-03,2020-03-20,nvda,NVIDIA,2020-03-20,5.143750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-04,2020-04-20,sp500,S&P 500 price index,2020-04-20,2823.160000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-04,2020-04-20,nasdaq100,Nasdaq 100 price index,2020-04-20,8726.510000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-04,2020-04-20,bitcoin,Bitcoin USD price,2020-04-20,6832.570000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-04,2020-04-20,psei,PSEI,2020-04-20,5733.649902,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-04,2020-04-20,jfc,Jollibee Foods Corporation,2020-04-20,143.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-04,2020-04-20,tsla,Tesla,2020-04-20,49.757332,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-04,2020-04-20,aapl,Apple,2020-04-20,69.232498,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-04,2020-04-20,msft,Microsoft,2020-04-20,175.059998,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-04,2020-04-20,nvda,NVIDIA,2020-04-20,7.176250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-05,2020-05-20,sp500,S&P 500 price index,2020-05-20,2971.610000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-05,2020-05-20,nasdaq100,Nasdaq 100 price index,2020-05-20,9485.020000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-05,2020-05-20,bitcoin,Bitcoin USD price,2020-05-20,9497.760000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-05,2020-05-20,psei,PSEI,2020-05-20,5581.959961,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-05,2020-05-20,jfc,Jollibee Foods Corporation,2020-05-20,137.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-05,2020-05-20,tsla,Tesla,2020-05-20,54.370667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-05,2020-05-20,aapl,Apple,2020-05-20,79.807503,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-05,2020-05-20,msft,Microsoft,2020-05-20,185.660004,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-05,2020-05-20,nvda,NVIDIA,2020-05-20,8.970000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-06,2020-06-19,sp500,S&P 500 price index,2020-06-19,3097.740000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-06,2020-06-19,nasdaq100,Nasdaq 100 price index,2020-06-19,10008.640000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-06,2020-06-19,bitcoin,Bitcoin USD price,2020-06-19,9285.540000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-06,2020-06-19,psei,PSEI,2020-06-19,6315.069824,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-06,2020-06-19,jfc,Jollibee Foods Corporation,2020-06-19,150.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-06,2020-06-19,tsla,Tesla,2020-06-19,66.726669,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-06,2020-06-19,aapl,Apple,2020-06-19,87.430000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-06,2020-06-19,msft,Microsoft,2020-06-19,195.149994,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-06,2020-06-19,nvda,NVIDIA,2020-06-19,9.261250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-07,2020-07-20,sp500,S&P 500 price index,2020-07-20,3251.840000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-07,2020-07-20,nasdaq100,Nasdaq 100 price index,2020-07-20,10952.080000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-07,2020-07-20,bitcoin,Bitcoin USD price,2020-07-20,9161.130000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-07,2020-07-20,psei,PSEI,2020-07-20,6150.700195,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-07,2020-07-20,jfc,Jollibee Foods Corporation,2020-07-20,133.500000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-07,2020-07-20,tsla,Tesla,2020-07-20,109.533333,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-07,2020-07-20,aapl,Apple,2020-07-20,98.357498,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-07,2020-07-20,msft,Microsoft,2020-07-20,211.600006,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-07,2020-07-20,nvda,NVIDIA,2020-07-20,10.510750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-08,2020-08-20,sp500,S&P 500 price index,2020-08-20,3385.510000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-08,2020-08-20,nasdaq100,Nasdaq 100 price index,2020-08-20,11477.050000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-08,2020-08-20,bitcoin,Bitcoin USD price,2020-08-20,11856.240000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-08,2020-08-20,psei,PSEI,2020-08-20,6005.399902,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-08,2020-08-20,jfc,Jollibee Foods Corporation,2020-08-20,139.500000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-08,2020-08-20,tsla,Tesla,2020-08-20,133.455338,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-08,2020-08-20,aapl,Apple,2020-08-20,118.275002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-08,2020-08-20,msft,Microsoft,2020-08-20,214.580002,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-08,2020-08-20,nvda,NVIDIA,2020-08-20,12.141000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-09,2020-09-18,sp500,S&P 500 price index,2020-09-18,3319.470000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-09,2020-09-18,nasdaq100,Nasdaq 100 price index,2020-09-18,10936.980000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-09,2020-09-18,bitcoin,Bitcoin USD price,2020-09-18,10942.200000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-09,2020-09-18,psei,PSEI,2020-09-18,5908.899902,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-09,2020-09-18,jfc,Jollibee Foods Corporation,2020-09-18,130.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-09,2020-09-18,tsla,Tesla,2020-09-18,147.383331,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-09,2020-09-18,aapl,Apple,2020-09-18,106.839996,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-09,2020-09-18,msft,Microsoft,2020-09-18,200.389999,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-09,2020-09-18,nvda,NVIDIA,2020-09-18,12.189250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-10,2020-10-20,sp500,S&P 500 price index,2020-10-20,3443.120000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-10,2020-10-20,nasdaq100,Nasdaq 100 price index,2020-10-20,11677.840000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-10,2020-10-20,bitcoin,Bitcoin USD price,2020-10-20,11917.340000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-10,2020-10-20,psei,PSEI,2020-10-20,6112.709961,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-10,2020-10-20,jfc,Jollibee Foods Corporation,2020-10-20,169.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-10,2020-10-20,tsla,Tesla,2020-10-20,140.646667,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-10,2020-10-20,aapl,Apple,2020-10-20,117.510002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-10,2020-10-20,msft,Microsoft,2020-10-20,214.649994,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-10,2020-10-20,nvda,NVIDIA,2020-10-20,13.645500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-11,2020-11-20,sp500,S&P 500 price index,2020-11-20,3557.540000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-11,2020-11-20,nasdaq100,Nasdaq 100 price index,2020-11-20,11906.440000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-11,2020-11-20,bitcoin,Bitcoin USD price,2020-11-20,18702.870000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-11,2020-11-20,psei,PSEI,2020-11-20,7169.790039,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-11,2020-11-20,jfc,Jollibee Foods Corporation,2020-11-20,195.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-11,2020-11-20,tsla,Tesla,2020-11-20,163.203339,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-11,2020-11-20,aapl,Apple,2020-11-20,117.339996,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-11,2020-11-20,msft,Microsoft,2020-11-20,210.389999,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-11,2020-11-20,nvda,NVIDIA,2020-11-20,13.087750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2020-12,2020-12-18,sp500,S&P 500 price index,2020-12-18,3709.410000,exact_date,https://fred.stlouisfed.org/series/SP500
+2020-12,2020-12-18,nasdaq100,Nasdaq 100 price index,2020-12-18,12738.180000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2020-12,2020-12-18,bitcoin,Bitcoin USD price,2020-12-18,23169.260000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2020-12,2020-12-18,psei,PSEI,2020-12-18,7272.799805,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2020-12,2020-12-18,jfc,Jollibee Foods Corporation,2020-12-18,204.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2020-12,2020-12-18,tsla,Tesla,2020-12-18,231.666672,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2020-12,2020-12-18,aapl,Apple,2020-12-18,126.660004,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2020-12,2020-12-18,msft,Microsoft,2020-12-18,218.589996,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2020-12,2020-12-18,nvda,NVIDIA,2020-12-18,13.272000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-01,2021-01-20,sp500,S&P 500 price index,2021-01-20,3851.850000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-01,2021-01-20,nasdaq100,Nasdaq 100 price index,2021-01-20,13296.450000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-01,2021-01-20,bitcoin,Bitcoin USD price,2021-01-20,35570.440000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-01,2021-01-20,psei,PSEI,2021-01-20,7143.299805,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-01,2021-01-20,jfc,Jollibee Foods Corporation,2021-01-20,188.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-01,2021-01-20,tsla,Tesla,2021-01-20,283.483337,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-01,2021-01-20,aapl,Apple,2021-01-20,132.029999,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-01,2021-01-20,msft,Microsoft,2021-01-20,224.339996,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-01,2021-01-20,nvda,NVIDIA,2021-01-20,13.365750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-02,2021-02-19,sp500,S&P 500 price index,2021-02-19,3906.710000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-02,2021-02-19,nasdaq100,Nasdaq 100 price index,2021-02-19,13580.780000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-02,2021-02-19,bitcoin,Bitcoin USD price,2021-02-19,56029.510000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-02,2021-02-19,psei,PSEI,2021-02-19,6926.410156,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-02,2021-02-19,jfc,Jollibee Foods Corporation,2021-02-19,179.900000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-02,2021-02-19,tsla,Tesla,2021-02-19,260.433319,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-02,2021-02-19,aapl,Apple,2021-02-19,129.869995,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-02,2021-02-19,msft,Microsoft,2021-02-19,240.970001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-02,2021-02-19,nvda,NVIDIA,2021-02-19,14.926500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-03,2021-03-19,sp500,S&P 500 price index,2021-03-19,3913.100000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-03,2021-03-19,nasdaq100,Nasdaq 100 price index,2021-03-19,12866.990000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-03,2021-03-19,bitcoin,Bitcoin USD price,2021-03-19,58001.290000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-03,2021-03-19,psei,PSEI,2021-03-19,6436.100098,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-03,2021-03-19,jfc,Jollibee Foods Corporation,2021-03-19,176.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-03,2021-03-19,tsla,Tesla,2021-03-19,218.289993,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-03,2021-03-19,aapl,Apple,2021-03-19,119.989998,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-03,2021-03-19,msft,Microsoft,2021-03-19,230.350006,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-03,2021-03-19,nvda,NVIDIA,2021-03-19,12.845750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-04,2021-04-20,sp500,S&P 500 price index,2021-04-20,4134.940000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-04,2021-04-20,nasdaq100,Nasdaq 100 price index,2021-04-20,13809.300000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-04,2021-04-20,bitcoin,Bitcoin USD price,2021-04-20,56514.900000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-04,2021-04-20,psei,PSEI,2021-04-20,6500.419922,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-04,2021-04-20,jfc,Jollibee Foods Corporation,2021-04-20,176.100000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-04,2021-04-20,tsla,Tesla,2021-04-20,239.663330,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-04,2021-04-20,aapl,Apple,2021-04-20,133.110001,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-04,2021-04-20,msft,Microsoft,2021-04-20,258.260010,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-04,2021-04-20,nvda,NVIDIA,2021-04-20,15.171250,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-05,2021-05-20,sp500,S&P 500 price index,2021-05-20,4159.120000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-05,2021-05-20,nasdaq100,Nasdaq 100 price index,2021-05-20,13494.090000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-05,2021-05-20,bitcoin,Bitcoin USD price,2021-05-20,40749.780000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-05,2021-05-20,psei,PSEI,2021-05-20,6197.640137,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-05,2021-05-20,jfc,Jollibee Foods Corporation,2021-05-20,177.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-05,2021-05-20,tsla,Tesla,2021-05-20,195.593338,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-05,2021-05-20,aapl,Apple,2021-05-20,127.309998,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-05,2021-05-20,msft,Microsoft,2021-05-20,246.479996,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-05,2021-05-20,nvda,NVIDIA,2021-05-20,14.612500,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-06,2021-06-18,sp500,S&P 500 price index,2021-06-18,4166.450000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-06,2021-06-18,nasdaq100,Nasdaq 100 price index,2021-06-18,14049.580000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-06,2021-06-18,bitcoin,Bitcoin USD price,2021-06-18,35777.390000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-06,2021-06-18,psei,PSEI,2021-06-18,6851.379883,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-06,2021-06-18,jfc,Jollibee Foods Corporation,2021-06-18,200.600000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-06,2021-06-18,tsla,Tesla,2021-06-18,207.770004,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-06,2021-06-18,aapl,Apple,2021-06-18,130.460007,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-06,2021-06-18,msft,Microsoft,2021-06-18,259.429993,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-06,2021-06-18,nvda,NVIDIA,2021-06-18,18.638750,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-07,2021-07-19,sp500,S&P 500 price index,2021-07-19,4258.490000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-07,2021-07-19,nasdaq100,Nasdaq 100 price index,2021-07-19,14549.090000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-07,2021-07-19,bitcoin,Bitcoin USD price,2021-07-19,30849.900000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-07,2021-07-19,psei,PSEI,2021-07-19,6587.200195,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-07,2021-07-19,jfc,Jollibee Foods Corporation,2021-07-19,210.600000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-07,2021-07-19,tsla,Tesla,2021-07-19,215.406662,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-07,2021-07-19,aapl,Apple,2021-07-19,142.449997,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-07,2021-07-19,msft,Microsoft,2021-07-19,277.010010,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-07,2021-07-19,nvda,NVIDIA,2021-07-19,18.779751,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-08,2021-08-20,sp500,S&P 500 price index,2021-08-20,4441.670000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-08,2021-08-20,nasdaq100,Nasdaq 100 price index,2021-08-20,15092.570000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-08,2021-08-20,bitcoin,Bitcoin USD price,2021-08-20,49350.990000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-08,2021-08-20,psei,PSEI,2021-08-20,6633.220215,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-08,2021-08-20,jfc,Jollibee Foods Corporation,2021-08-20,193.500000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-08,2021-08-20,tsla,Tesla,2021-08-20,226.753326,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-08,2021-08-20,aapl,Apple,2021-08-20,148.190002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-08,2021-08-20,msft,Microsoft,2021-08-20,304.359985,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-08,2021-08-20,nvda,NVIDIA,2021-08-20,20.816000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-09,2021-09-20,sp500,S&P 500 price index,2021-09-20,4357.730000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-09,2021-09-20,nasdaq100,Nasdaq 100 price index,2021-09-20,15012.190000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-09,2021-09-20,bitcoin,Bitcoin USD price,2021-09-20,42991.140000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-09,2021-09-20,psei,PSEI,2021-09-20,6857.899902,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-09,2021-09-20,jfc,Jollibee Foods Corporation,2021-09-20,194.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-09,2021-09-20,tsla,Tesla,2021-09-20,243.389999,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-09,2021-09-20,aapl,Apple,2021-09-20,142.940002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-09,2021-09-20,msft,Microsoft,2021-09-20,294.299988,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-09,2021-09-20,nvda,NVIDIA,2021-09-20,21.113001,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-10,2021-10-20,sp500,S&P 500 price index,2021-10-20,4536.190000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-10,2021-10-20,nasdaq100,Nasdaq 100 price index,2021-10-20,15388.710000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-10,2021-10-20,bitcoin,Bitcoin USD price,2021-10-20,66005.170000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-10,2021-10-20,psei,PSEI,2021-10-20,7297.080078,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-10,2021-10-20,jfc,Jollibee Foods Corporation,2021-10-20,228.600000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-10,2021-10-20,tsla,Tesla,2021-10-20,288.600006,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-10,2021-10-20,aapl,Apple,2021-10-20,149.259995,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-10,2021-10-20,msft,Microsoft,2021-10-20,307.410004,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-10,2021-10-20,nvda,NVIDIA,2021-10-20,22.103001,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-11,2021-11-19,sp500,S&P 500 price index,2021-11-19,4697.960000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-11,2021-11-19,nasdaq100,Nasdaq 100 price index,2021-11-19,16573.340000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-11,2021-11-19,bitcoin,Bitcoin USD price,2021-11-19,58187.850000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-11,2021-11-19,psei,PSEI,2021-11-19,7280.569824,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-11,2021-11-19,jfc,Jollibee Foods Corporation,2021-11-19,249.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-11,2021-11-19,tsla,Tesla,2021-11-19,379.019989,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-11,2021-11-19,aapl,Apple,2021-11-19,160.550003,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-11,2021-11-19,msft,Microsoft,2021-11-19,343.109985,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-11,2021-11-19,nvda,NVIDIA,2021-11-19,32.985001,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2021-12,2021-12-20,sp500,S&P 500 price index,2021-12-20,4568.020000,exact_date,https://fred.stlouisfed.org/series/SP500
+2021-12,2021-12-20,nasdaq100,Nasdaq 100 price index,2021-12-20,15627.640000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2021-12,2021-12-20,bitcoin,Bitcoin USD price,2021-12-20,46963.710000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2021-12,2021-12-20,psei,PSEI,2021-12-20,7237.609863,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2021-12,2021-12-20,jfc,Jollibee Foods Corporation,2021-12-20,214.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2021-12,2021-12-20,tsla,Tesla,2021-12-20,299.980011,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2021-12,2021-12-20,aapl,Apple,2021-12-20,169.750000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2021-12,2021-12-20,msft,Microsoft,2021-12-20,319.910004,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2021-12,2021-12-20,nvda,NVIDIA,2021-12-20,27.719000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-01,2022-01-20,sp500,S&P 500 price index,2022-01-20,4482.730000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-01,2022-01-20,nasdaq100,Nasdaq 100 price index,2022-01-20,14846.460000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-01,2022-01-20,bitcoin,Bitcoin USD price,2022-01-20,40696.220000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-01,2022-01-20,psei,PSEI,2022-01-20,7239.279785,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-01,2022-01-20,jfc,Jollibee Foods Corporation,2022-01-20,229.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-01,2022-01-20,tsla,Tesla,2022-01-20,332.089996,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-01,2022-01-20,aapl,Apple,2022-01-20,164.509995,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-01,2022-01-20,msft,Microsoft,2022-01-20,301.600006,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-01,2022-01-20,nvda,NVIDIA,2022-01-20,24.150000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-02,2022-02-18,sp500,S&P 500 price index,2022-02-18,4348.870000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-02,2022-02-18,nasdaq100,Nasdaq 100 price index,2022-02-18,14009.540000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-02,2022-02-18,bitcoin,Bitcoin USD price,2022-02-18,39993.110000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-02,2022-02-18,psei,PSEI,2022-02-18,7418.790039,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-02,2022-02-18,jfc,Jollibee Foods Corporation,2022-02-18,247.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-02,2022-02-18,tsla,Tesla,2022-02-18,285.660004,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-02,2022-02-18,aapl,Apple,2022-02-18,167.300003,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-02,2022-02-18,msft,Microsoft,2022-02-18,287.929993,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-02,2022-02-18,nvda,NVIDIA,2022-02-18,23.642000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-03,2022-03-18,sp500,S&P 500 price index,2022-03-18,4463.120000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-03,2022-03-18,nasdaq100,Nasdaq 100 price index,2022-03-18,14420.080000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-03,2022-03-18,bitcoin,Bitcoin USD price,2022-03-18,41806.030000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-03,2022-03-18,psei,PSEI,2022-03-18,7007.629883,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-03,2022-03-18,jfc,Jollibee Foods Corporation,2022-03-18,216.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-03,2022-03-18,tsla,Tesla,2022-03-18,301.796661,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-03,2022-03-18,aapl,Apple,2022-03-18,163.979996,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-03,2022-03-18,msft,Microsoft,2022-03-18,300.429993,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-03,2022-03-18,nvda,NVIDIA,2022-03-18,26.452999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-04,2022-04-20,sp500,S&P 500 price index,2022-04-20,4459.450000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-04,2022-04-20,nasdaq100,Nasdaq 100 price index,2022-04-20,13998.530000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-04,2022-04-20,bitcoin,Bitcoin USD price,2022-04-20,41350.250000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-04,2022-04-20,psei,PSEI,2022-04-20,7142.419922,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-04,2022-04-20,jfc,Jollibee Foods Corporation,2022-04-20,229.600000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-04,2022-04-20,tsla,Tesla,2022-04-20,325.733337,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-04,2022-04-20,aapl,Apple,2022-04-20,167.229996,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-04,2022-04-20,msft,Microsoft,2022-04-20,286.359985,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-04,2022-04-20,nvda,NVIDIA,2022-04-20,21.482000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-05,2022-05-20,sp500,S&P 500 price index,2022-05-20,3901.360000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-05,2022-05-20,nasdaq100,Nasdaq 100 price index,2022-05-20,11835.620000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-05,2022-05-20,bitcoin,Bitcoin USD price,2022-05-20,29138.150000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-05,2022-05-20,psei,PSEI,2022-05-20,6746.330078,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-05,2022-05-20,jfc,Jollibee Foods Corporation,2022-05-20,212.400000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-05,2022-05-20,tsla,Tesla,2022-05-20,221.300003,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-05,2022-05-20,aapl,Apple,2022-05-20,137.589996,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-05,2022-05-20,msft,Microsoft,2022-05-20,252.559998,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-05,2022-05-20,nvda,NVIDIA,2022-05-20,16.694000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-06,2022-06-20,sp500,S&P 500 price index,2022-06-17,3674.840000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/SP500
+2022-06,2022-06-20,nasdaq100,Nasdaq 100 price index,2022-06-17,11265.990000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/NASDAQ100
+2022-06,2022-06-20,bitcoin,Bitcoin USD price,2022-06-20,20534.330000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-06,2022-06-20,psei,PSEI,2022-06-20,6333.939941,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-06,2022-06-20,jfc,Jollibee Foods Corporation,2022-06-20,196.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-06,2022-06-20,tsla,Tesla,2022-06-17,216.759995,nearest_prior_trading_day,https://finance.yahoo.com/quote/TSLA/history
+2022-06,2022-06-20,aapl,Apple,2022-06-17,131.559998,nearest_prior_trading_day,https://finance.yahoo.com/quote/AAPL/history
+2022-06,2022-06-20,msft,Microsoft,2022-06-17,247.649994,nearest_prior_trading_day,https://finance.yahoo.com/quote/MSFT/history
+2022-06,2022-06-20,nvda,NVIDIA,2022-06-17,15.880000,nearest_prior_trading_day,https://finance.yahoo.com/quote/NVDA/history
+2022-07,2022-07-20,sp500,S&P 500 price index,2022-07-20,3959.900000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-07,2022-07-20,nasdaq100,Nasdaq 100 price index,2022-07-20,12439.680000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-07,2022-07-20,bitcoin,Bitcoin USD price,2022-07-20,23237.110000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-07,2022-07-20,psei,PSEI,2022-07-20,6274.799805,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-07,2022-07-20,jfc,Jollibee Foods Corporation,2022-07-20,212.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-07,2022-07-20,tsla,Tesla,2022-07-20,247.500000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-07,2022-07-20,aapl,Apple,2022-07-20,153.039993,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-07,2022-07-20,msft,Microsoft,2022-07-20,262.269989,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-07,2022-07-20,nvda,NVIDIA,2022-07-20,17.806999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-08,2022-08-19,sp500,S&P 500 price index,2022-08-19,4228.480000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-08,2022-08-19,nasdaq100,Nasdaq 100 price index,2022-08-19,13242.900000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-08,2022-08-19,bitcoin,Bitcoin USD price,2022-08-19,20850.040000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-08,2022-08-19,psei,PSEI,2022-08-19,6863.859863,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-08,2022-08-19,jfc,Jollibee Foods Corporation,2022-08-19,228.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-08,2022-08-19,tsla,Tesla,2022-08-19,296.666656,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-08,2022-08-19,aapl,Apple,2022-08-19,171.520004,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-08,2022-08-19,msft,Microsoft,2022-08-19,286.149994,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-08,2022-08-19,nvda,NVIDIA,2022-08-19,17.849001,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-09,2022-09-20,sp500,S&P 500 price index,2022-09-20,3855.930000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-09,2022-09-20,nasdaq100,Nasdaq 100 price index,2022-09-20,11851.540000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-09,2022-09-20,bitcoin,Bitcoin USD price,2022-09-20,18869.220000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-09,2022-09-20,psei,PSEI,2022-09-20,6448.459961,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-09,2022-09-20,jfc,Jollibee Foods Corporation,2022-09-20,244.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-09,2022-09-20,tsla,Tesla,2022-09-20,308.730011,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-09,2022-09-20,aapl,Apple,2022-09-20,156.899994,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-09,2022-09-20,msft,Microsoft,2022-09-20,242.449997,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-09,2022-09-20,nvda,NVIDIA,2022-09-20,13.176000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-10,2022-10-20,sp500,S&P 500 price index,2022-10-20,3665.780000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-10,2022-10-20,nasdaq100,Nasdaq 100 price index,2022-10-20,11046.710000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-10,2022-10-20,bitcoin,Bitcoin USD price,2022-10-20,19046.770000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-10,2022-10-20,psei,PSEI,2022-10-20,6055.990234,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-10,2022-10-20,jfc,Jollibee Foods Corporation,2022-10-20,230.400000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-10,2022-10-20,tsla,Tesla,2022-10-20,207.279999,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-10,2022-10-20,aapl,Apple,2022-10-20,143.389999,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-10,2022-10-20,msft,Microsoft,2022-10-20,236.149994,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-10,2022-10-20,nvda,NVIDIA,2022-10-20,12.194000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-11,2022-11-18,sp500,S&P 500 price index,2022-11-18,3965.340000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-11,2022-11-18,nasdaq100,Nasdaq 100 price index,2022-11-18,11677.020000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-11,2022-11-18,bitcoin,Bitcoin USD price,2022-11-18,16673.070000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-11,2022-11-18,psei,PSEI,2022-11-18,6437.379883,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-11,2022-11-18,jfc,Jollibee Foods Corporation,2022-11-18,244.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-11,2022-11-18,tsla,Tesla,2022-11-18,180.190002,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-11,2022-11-18,aapl,Apple,2022-11-18,151.289993,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-11,2022-11-18,msft,Microsoft,2022-11-18,241.220001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-11,2022-11-18,nvda,NVIDIA,2022-11-18,15.409000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2022-12,2022-12-20,sp500,S&P 500 price index,2022-12-20,3821.620000,exact_date,https://fred.stlouisfed.org/series/SP500
+2022-12,2022-12-20,nasdaq100,Nasdaq 100 price index,2022-12-20,11072.420000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2022-12,2022-12-20,bitcoin,Bitcoin USD price,2022-12-20,16893.020000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2022-12,2022-12-20,psei,PSEI,2022-12-20,6458.120117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2022-12,2022-12-20,jfc,Jollibee Foods Corporation,2022-12-20,230.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2022-12,2022-12-20,tsla,Tesla,2022-12-20,137.800003,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2022-12,2022-12-20,aapl,Apple,2022-12-20,132.300003,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2022-12,2022-12-20,msft,Microsoft,2022-12-20,241.800003,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2022-12,2022-12-20,nvda,NVIDIA,2022-12-20,16.084999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-01,2023-01-20,sp500,S&P 500 price index,2023-01-20,3972.610000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-01,2023-01-20,nasdaq100,Nasdaq 100 price index,2023-01-20,11619.030000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-01,2023-01-20,bitcoin,Bitcoin USD price,2023-01-20,22686.850000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-01,2023-01-20,psei,PSEI,2023-01-20,7056.620117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-01,2023-01-20,jfc,Jollibee Foods Corporation,2023-01-20,245.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-01,2023-01-20,tsla,Tesla,2023-01-20,133.419998,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-01,2023-01-20,aapl,Apple,2023-01-20,137.869995,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-01,2023-01-20,msft,Microsoft,2023-01-20,240.220001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-01,2023-01-20,nvda,NVIDIA,2023-01-20,17.839001,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-02,2023-02-20,sp500,S&P 500 price index,2023-02-17,4079.090000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/SP500
+2023-02,2023-02-20,nasdaq100,Nasdaq 100 price index,2023-02-17,12358.180000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/NASDAQ100
+2023-02,2023-02-20,bitcoin,Bitcoin USD price,2023-02-20,24835.630000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-02,2023-02-20,psei,PSEI,2023-02-20,6744.120117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-02,2023-02-20,jfc,Jollibee Foods Corporation,2023-02-20,237.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-02,2023-02-20,tsla,Tesla,2023-02-17,208.309998,nearest_prior_trading_day,https://finance.yahoo.com/quote/TSLA/history
+2023-02,2023-02-20,aapl,Apple,2023-02-17,152.550003,nearest_prior_trading_day,https://finance.yahoo.com/quote/AAPL/history
+2023-02,2023-02-20,msft,Microsoft,2023-02-17,258.059998,nearest_prior_trading_day,https://finance.yahoo.com/quote/MSFT/history
+2023-02,2023-02-20,nvda,NVIDIA,2023-02-17,21.388000,nearest_prior_trading_day,https://finance.yahoo.com/quote/NVDA/history
+2023-03,2023-03-20,sp500,S&P 500 price index,2023-03-20,3951.570000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-03,2023-03-20,nasdaq100,Nasdaq 100 price index,2023-03-20,12562.610000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-03,2023-03-20,bitcoin,Bitcoin USD price,2023-03-20,27818.070000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-03,2023-03-20,psei,PSEI,2023-03-20,6451.020020,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-03,2023-03-20,jfc,Jollibee Foods Corporation,2023-03-20,222.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-03,2023-03-20,tsla,Tesla,2023-03-20,183.250000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-03,2023-03-20,aapl,Apple,2023-03-20,157.399994,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-03,2023-03-20,msft,Microsoft,2023-03-20,272.230011,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-03,2023-03-20,nvda,NVIDIA,2023-03-20,25.900000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-04,2023-04-20,sp500,S&P 500 price index,2023-04-20,4129.790000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-04,2023-04-20,nasdaq100,Nasdaq 100 price index,2023-04-20,12985.980000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-04,2023-04-20,bitcoin,Bitcoin USD price,2023-04-20,28235.240000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-04,2023-04-20,psei,PSEI,2023-04-20,6520.439941,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-04,2023-04-20,jfc,Jollibee Foods Corporation,2023-04-20,217.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-04,2023-04-20,tsla,Tesla,2023-04-20,162.990005,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-04,2023-04-20,aapl,Apple,2023-04-20,166.649994,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-04,2023-04-20,msft,Microsoft,2023-04-20,286.109985,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-04,2023-04-20,nvda,NVIDIA,2023-04-20,27.104000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-05,2023-05-19,sp500,S&P 500 price index,2023-05-19,4191.980000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-05,2023-05-19,nasdaq100,Nasdaq 100 price index,2023-05-19,13803.490000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-05,2023-05-19,bitcoin,Bitcoin USD price,2023-05-19,26877.990000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-05,2023-05-19,psei,PSEI,2023-05-19,6664.549805,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-05,2023-05-19,jfc,Jollibee Foods Corporation,2023-05-19,232.600000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-05,2023-05-19,tsla,Tesla,2023-05-19,180.139999,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-05,2023-05-19,aapl,Apple,2023-05-19,175.160004,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-05,2023-05-19,msft,Microsoft,2023-05-19,318.339996,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-05,2023-05-19,nvda,NVIDIA,2023-05-19,31.264000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-06,2023-06-20,sp500,S&P 500 price index,2023-06-20,4388.710000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-06,2023-06-20,nasdaq100,Nasdaq 100 price index,2023-06-20,15070.150000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-06,2023-06-20,bitcoin,Bitcoin USD price,2023-06-20,28315.010000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-06,2023-06-20,psei,PSEI,2023-06-20,6448.899902,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-06,2023-06-20,jfc,Jollibee Foods Corporation,2023-06-20,240.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-06,2023-06-20,tsla,Tesla,2023-06-20,274.450012,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-06,2023-06-20,aapl,Apple,2023-06-20,185.009995,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-06,2023-06-20,msft,Microsoft,2023-06-20,338.049988,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-06,2023-06-20,nvda,NVIDIA,2023-06-20,43.807999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-07,2023-07-20,sp500,S&P 500 price index,2023-07-20,4534.870000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-07,2023-07-20,nasdaq100,Nasdaq 100 price index,2023-07-20,15466.090000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-07,2023-07-20,bitcoin,Bitcoin USD price,2023-07-20,29807.900000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-07,2023-07-20,psei,PSEI,2023-07-20,6613.500000,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-07,2023-07-20,jfc,Jollibee Foods Corporation,2023-07-20,258.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-07,2023-07-20,tsla,Tesla,2023-07-20,262.899994,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-07,2023-07-20,aapl,Apple,2023-07-20,193.130005,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-07,2023-07-20,msft,Microsoft,2023-07-20,346.869995,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-07,2023-07-20,nvda,NVIDIA,2023-07-20,45.520000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-08,2023-08-18,sp500,S&P 500 price index,2023-08-18,4369.710000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-08,2023-08-18,nasdaq100,Nasdaq 100 price index,2023-08-18,14694.840000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-08,2023-08-18,bitcoin,Bitcoin USD price,2023-08-18,26043.990000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-08,2023-08-18,psei,PSEI,2023-08-18,6290.270020,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-08,2023-08-18,jfc,Jollibee Foods Corporation,2023-08-18,243.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-08,2023-08-18,tsla,Tesla,2023-08-18,215.490005,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-08,2023-08-18,aapl,Apple,2023-08-18,174.490005,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-08,2023-08-18,msft,Microsoft,2023-08-18,316.480011,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-08,2023-08-18,nvda,NVIDIA,2023-08-18,43.299000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-09,2023-09-20,sp500,S&P 500 price index,2023-09-20,4402.200000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-09,2023-09-20,nasdaq100,Nasdaq 100 price index,2023-09-20,14969.920000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-09,2023-09-20,bitcoin,Bitcoin USD price,2023-09-20,27119.410000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-09,2023-09-20,psei,PSEI,2023-09-20,6041.040039,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-09,2023-09-20,jfc,Jollibee Foods Corporation,2023-09-20,225.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-09,2023-09-20,tsla,Tesla,2023-09-20,262.589996,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-09,2023-09-20,aapl,Apple,2023-09-20,175.490005,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-09,2023-09-20,msft,Microsoft,2023-09-20,320.769989,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-09,2023-09-20,nvda,NVIDIA,2023-09-20,42.238998,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-10,2023-10-20,sp500,S&P 500 price index,2023-10-20,4224.160000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-10,2023-10-20,nasdaq100,Nasdaq 100 price index,2023-10-20,14560.880000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-10,2023-10-20,bitcoin,Bitcoin USD price,2023-10-20,29686.660000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-10,2023-10-20,psei,PSEI,2023-10-20,6142.899902,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-10,2023-10-20,jfc,Jollibee Foods Corporation,2023-10-20,215.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-10,2023-10-20,tsla,Tesla,2023-10-20,211.990005,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-10,2023-10-20,aapl,Apple,2023-10-20,172.880005,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-10,2023-10-20,msft,Microsoft,2023-10-20,326.670013,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-10,2023-10-20,nvda,NVIDIA,2023-10-20,41.387001,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-11,2023-11-20,sp500,S&P 500 price index,2023-11-20,4547.380000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-11,2023-11-20,nasdaq100,Nasdaq 100 price index,2023-11-20,16027.060000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-11,2023-11-20,bitcoin,Bitcoin USD price,2023-11-20,37476.080000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-11,2023-11-20,psei,PSEI,2023-11-20,6183.629883,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-11,2023-11-20,jfc,Jollibee Foods Corporation,2023-11-20,227.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-11,2023-11-20,tsla,Tesla,2023-11-20,235.600006,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-11,2023-11-20,aapl,Apple,2023-11-20,191.449997,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-11,2023-11-20,msft,Microsoft,2023-11-20,377.440002,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-11,2023-11-20,nvda,NVIDIA,2023-11-20,50.409000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2023-12,2023-12-20,sp500,S&P 500 price index,2023-12-20,4698.350000,exact_date,https://fred.stlouisfed.org/series/SP500
+2023-12,2023-12-20,nasdaq100,Nasdaq 100 price index,2023-12-20,16554.160000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2023-12,2023-12-20,bitcoin,Bitcoin USD price,2023-12-20,43647.010000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2023-12,2023-12-20,psei,PSEI,2023-12-20,6520.750000,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2023-12,2023-12-20,jfc,Jollibee Foods Corporation,2023-12-20,242.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2023-12,2023-12-20,tsla,Tesla,2023-12-20,247.139999,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2023-12,2023-12-20,aapl,Apple,2023-12-20,194.830002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2023-12,2023-12-20,msft,Microsoft,2023-12-20,370.619995,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2023-12,2023-12-20,nvda,NVIDIA,2023-12-20,48.111000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-01,2024-01-19,sp500,S&P 500 price index,2024-01-19,4839.810000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-01,2024-01-19,nasdaq100,Nasdaq 100 price index,2024-01-19,17314.000000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-01,2024-01-19,bitcoin,Bitcoin USD price,2024-01-19,41633.680000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-01,2024-01-19,psei,PSEI,2024-01-19,6503.540039,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-01,2024-01-19,jfc,Jollibee Foods Corporation,2024-01-19,267.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-01,2024-01-19,tsla,Tesla,2024-01-19,212.190002,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-01,2024-01-19,aapl,Apple,2024-01-19,191.559998,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-01,2024-01-19,msft,Microsoft,2024-01-19,398.670013,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-01,2024-01-19,nvda,NVIDIA,2024-01-19,59.491001,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-02,2024-02-20,sp500,S&P 500 price index,2024-02-20,4975.510000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-02,2024-02-20,nasdaq100,Nasdaq 100 price index,2024-02-20,17546.100000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-02,2024-02-20,bitcoin,Bitcoin USD price,2024-02-20,52284.380000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-02,2024-02-20,psei,PSEI,2024-02-20,6854.660156,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-02,2024-02-20,jfc,Jollibee Foods Corporation,2024-02-20,259.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-02,2024-02-20,tsla,Tesla,2024-02-20,193.759995,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-02,2024-02-20,aapl,Apple,2024-02-20,181.559998,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-02,2024-02-20,msft,Microsoft,2024-02-20,402.790009,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-02,2024-02-20,nvda,NVIDIA,2024-02-20,69.452003,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-03,2024-03-20,sp500,S&P 500 price index,2024-03-20,5224.620000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-03,2024-03-20,nasdaq100,Nasdaq 100 price index,2024-03-20,18240.110000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-03,2024-03-20,bitcoin,Bitcoin USD price,2024-03-20,67862.330000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-03,2024-03-20,psei,PSEI,2024-03-20,6856.770020,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-03,2024-03-20,jfc,Jollibee Foods Corporation,2024-03-20,259.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-03,2024-03-20,tsla,Tesla,2024-03-20,175.660004,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-03,2024-03-20,aapl,Apple,2024-03-20,178.669998,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-03,2024-03-20,msft,Microsoft,2024-03-20,425.230011,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-03,2024-03-20,nvda,NVIDIA,2024-03-20,90.372002,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-04,2024-04-19,sp500,S&P 500 price index,2024-04-19,4967.230000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-04,2024-04-19,nasdaq100,Nasdaq 100 price index,2024-04-19,17037.650000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-04,2024-04-19,bitcoin,Bitcoin USD price,2024-04-19,63836.500000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-04,2024-04-19,psei,PSEI,2024-04-19,6443.000000,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-04,2024-04-19,jfc,Jollibee Foods Corporation,2024-04-19,220.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-04,2024-04-19,tsla,Tesla,2024-04-19,147.050003,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-04,2024-04-19,aapl,Apple,2024-04-19,165.000000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-04,2024-04-19,msft,Microsoft,2024-04-19,399.119995,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-04,2024-04-19,nvda,NVIDIA,2024-04-19,76.199997,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-05,2024-05-20,sp500,S&P 500 price index,2024-05-20,5308.130000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-05,2024-05-20,nasdaq100,Nasdaq 100 price index,2024-05-20,18674.190000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-05,2024-05-20,bitcoin,Bitcoin USD price,2024-05-20,71466.210000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-05,2024-05-20,psei,PSEI,2024-05-20,6682.779785,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-05,2024-05-20,jfc,Jollibee Foods Corporation,2024-05-20,230.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-05,2024-05-20,tsla,Tesla,2024-05-20,174.949997,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-05,2024-05-20,aapl,Apple,2024-05-20,191.039993,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-05,2024-05-20,msft,Microsoft,2024-05-20,425.339996,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-05,2024-05-20,nvda,NVIDIA,2024-05-20,94.779999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-06,2024-06-20,sp500,S&P 500 price index,2024-06-20,5473.170000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-06,2024-06-20,nasdaq100,Nasdaq 100 price index,2024-06-20,19752.300000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-06,2024-06-20,bitcoin,Bitcoin USD price,2024-06-20,64842.530000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-06,2024-06-20,psei,PSEI,2024-06-20,6344.560059,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-06,2024-06-20,jfc,Jollibee Foods Corporation,2024-06-20,217.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-06,2024-06-20,tsla,Tesla,2024-06-20,181.570007,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-06,2024-06-20,aapl,Apple,2024-06-20,209.679993,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-06,2024-06-20,msft,Microsoft,2024-06-20,445.700012,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-06,2024-06-20,nvda,NVIDIA,2024-06-20,130.779999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-07,2024-07-19,sp500,S&P 500 price index,2024-07-19,5505.000000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-07,2024-07-19,nasdaq100,Nasdaq 100 price index,2024-07-19,19522.620000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-07,2024-07-19,bitcoin,Bitcoin USD price,2024-07-19,66771.260000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-07,2024-07-19,psei,PSEI,2024-07-19,6791.689941,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-07,2024-07-19,jfc,Jollibee Foods Corporation,2024-07-19,229.400000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-07,2024-07-19,tsla,Tesla,2024-07-19,239.199997,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-07,2024-07-19,aapl,Apple,2024-07-19,224.309998,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-07,2024-07-19,msft,Microsoft,2024-07-19,437.109985,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-07,2024-07-19,nvda,NVIDIA,2024-07-19,117.930000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-08,2024-08-20,sp500,S&P 500 price index,2024-08-20,5597.120000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-08,2024-08-20,nasdaq100,Nasdaq 100 price index,2024-08-20,19719.820000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-08,2024-08-20,bitcoin,Bitcoin USD price,2024-08-20,59062.490000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-08,2024-08-20,psei,PSEI,2024-08-20,6944.759766,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-08,2024-08-20,jfc,Jollibee Foods Corporation,2024-08-20,245.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-08,2024-08-20,tsla,Tesla,2024-08-20,221.100006,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-08,2024-08-20,aapl,Apple,2024-08-20,226.509995,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-08,2024-08-20,msft,Microsoft,2024-08-20,424.799988,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-08,2024-08-20,nvda,NVIDIA,2024-08-20,127.250000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-09,2024-09-20,sp500,S&P 500 price index,2024-09-20,5702.550000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-09,2024-09-20,nasdaq100,Nasdaq 100 price index,2024-09-20,19791.490000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-09,2024-09-20,bitcoin,Bitcoin USD price,2024-09-20,63362.740000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-09,2024-09-20,psei,PSEI,2024-09-20,7252.319824,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-09,2024-09-20,jfc,Jollibee Foods Corporation,2024-09-20,270.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-09,2024-09-20,tsla,Tesla,2024-09-20,238.250000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-09,2024-09-20,aapl,Apple,2024-09-20,228.199997,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-09,2024-09-20,msft,Microsoft,2024-09-20,435.269989,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-09,2024-09-20,nvda,NVIDIA,2024-09-20,116.000000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-10,2024-10-18,sp500,S&P 500 price index,2024-10-18,5864.670000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-10,2024-10-18,nasdaq100,Nasdaq 100 price index,2024-10-18,20324.040000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-10,2024-10-18,bitcoin,Bitcoin USD price,2024-10-18,68363.730000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-10,2024-10-18,psei,PSEI,2024-10-18,7415.729980,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-10,2024-10-18,jfc,Jollibee Foods Corporation,2024-10-18,276.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-10,2024-10-18,tsla,Tesla,2024-10-18,220.699997,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-10,2024-10-18,aapl,Apple,2024-10-18,235.000000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-10,2024-10-18,msft,Microsoft,2024-10-18,418.160004,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-10,2024-10-18,nvda,NVIDIA,2024-10-18,138.000000,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-11,2024-11-20,sp500,S&P 500 price index,2024-11-20,5917.110000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-11,2024-11-20,nasdaq100,Nasdaq 100 price index,2024-11-20,20667.100000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-11,2024-11-20,bitcoin,Bitcoin USD price,2024-11-20,98439.090000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-11,2024-11-20,psei,PSEI,2024-11-20,6975.629883,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-11,2024-11-20,jfc,Jollibee Foods Corporation,2024-11-20,274.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-11,2024-11-20,tsla,Tesla,2024-11-20,342.029999,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-11,2024-11-20,aapl,Apple,2024-11-20,229.000000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-11,2024-11-20,msft,Microsoft,2024-11-20,415.489990,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-11,2024-11-20,nvda,NVIDIA,2024-11-20,145.889999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2024-12,2024-12-20,sp500,S&P 500 price index,2024-12-20,5930.850000,exact_date,https://fred.stlouisfed.org/series/SP500
+2024-12,2024-12-20,nasdaq100,Nasdaq 100 price index,2024-12-20,21289.150000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2024-12,2024-12-20,bitcoin,Bitcoin USD price,2024-12-20,97230.080000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2024-12,2024-12-20,psei,PSEI,2024-12-20,6406.379883,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2024-12,2024-12-20,jfc,Jollibee Foods Corporation,2024-12-20,256.400000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2024-12,2024-12-20,tsla,Tesla,2024-12-20,421.059998,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2024-12,2024-12-20,aapl,Apple,2024-12-20,254.490005,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2024-12,2024-12-20,msft,Microsoft,2024-12-20,436.600006,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2024-12,2024-12-20,nvda,NVIDIA,2024-12-20,134.699997,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-01,2025-01-20,sp500,S&P 500 price index,2025-01-17,5996.660000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/SP500
+2025-01,2025-01-20,nasdaq100,Nasdaq 100 price index,2025-01-17,21441.150000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/NASDAQ100
+2025-01,2025-01-20,bitcoin,Bitcoin USD price,2025-01-20,106159.260000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-01,2025-01-20,psei,PSEI,2025-01-20,6349.890137,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-01,2025-01-20,jfc,Jollibee Foods Corporation,2025-01-20,247.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-01,2025-01-20,tsla,Tesla,2025-01-17,426.500000,nearest_prior_trading_day,https://finance.yahoo.com/quote/TSLA/history
+2025-01,2025-01-20,aapl,Apple,2025-01-17,229.979996,nearest_prior_trading_day,https://finance.yahoo.com/quote/AAPL/history
+2025-01,2025-01-20,msft,Microsoft,2025-01-17,429.029999,nearest_prior_trading_day,https://finance.yahoo.com/quote/MSFT/history
+2025-01,2025-01-20,nvda,NVIDIA,2025-01-17,137.710007,nearest_prior_trading_day,https://finance.yahoo.com/quote/NVDA/history
+2025-02,2025-02-20,sp500,S&P 500 price index,2025-02-20,6117.520000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-02,2025-02-20,nasdaq100,Nasdaq 100 price index,2025-02-20,22068.060000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-02,2025-02-20,bitcoin,Bitcoin USD price,2025-02-20,96157.030000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-02,2025-02-20,psei,PSEI,2025-02-20,6066.629883,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-02,2025-02-20,jfc,Jollibee Foods Corporation,2025-02-20,258.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-02,2025-02-20,tsla,Tesla,2025-02-20,354.399994,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-02,2025-02-20,aapl,Apple,2025-02-20,245.830002,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-02,2025-02-20,msft,Microsoft,2025-02-20,416.130005,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-02,2025-02-20,nvda,NVIDIA,2025-02-20,140.110001,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-03,2025-03-20,sp500,S&P 500 price index,2025-03-20,5662.890000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-03,2025-03-20,nasdaq100,Nasdaq 100 price index,2025-03-20,19677.610000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-03,2025-03-20,bitcoin,Bitcoin USD price,2025-03-20,84061.960000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-03,2025-03-20,psei,PSEI,2025-03-20,6323.129883,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-03,2025-03-20,jfc,Jollibee Foods Corporation,2025-03-20,248.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-03,2025-03-20,tsla,Tesla,2025-03-20,236.259995,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-03,2025-03-20,aapl,Apple,2025-03-20,214.100006,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-03,2025-03-20,msft,Microsoft,2025-03-20,386.839996,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-03,2025-03-20,nvda,NVIDIA,2025-03-20,118.529999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-04,2025-04-16,sp500,S&P 500 price index,2025-04-16,5275.700000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-04,2025-04-16,nasdaq100,Nasdaq 100 price index,2025-04-16,18257.640000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-04,2025-04-16,bitcoin,Bitcoin USD price,2025-04-16,84961.970000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-04,2025-04-16,psei,PSEI,2025-04-16,6134.620117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-04,2025-04-16,jfc,Jollibee Foods Corporation,2025-04-16,234.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-04,2025-04-16,tsla,Tesla,2025-04-16,241.550003,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-04,2025-04-16,aapl,Apple,2025-04-16,194.270004,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-04,2025-04-16,msft,Microsoft,2025-04-16,371.609985,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-04,2025-04-16,nvda,NVIDIA,2025-04-16,104.489998,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-05,2025-05-20,sp500,S&P 500 price index,2025-05-20,5940.460000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-05,2025-05-20,nasdaq100,Nasdaq 100 price index,2025-05-20,21367.370000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-05,2025-05-20,bitcoin,Bitcoin USD price,2025-05-20,109699.540000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-05,2025-05-20,psei,PSEI,2025-05-20,6335.330078,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-05,2025-05-20,jfc,Jollibee Foods Corporation,2025-05-20,242.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-05,2025-05-20,tsla,Tesla,2025-05-20,343.820007,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-05,2025-05-20,aapl,Apple,2025-05-20,206.860001,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-05,2025-05-20,msft,Microsoft,2025-05-20,458.170013,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-05,2025-05-20,nvda,NVIDIA,2025-05-20,134.380005,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-06,2025-06-20,sp500,S&P 500 price index,2025-06-20,5967.840000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-06,2025-06-20,nasdaq100,Nasdaq 100 price index,2025-06-20,21626.390000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-06,2025-06-20,bitcoin,Bitcoin USD price,2025-06-20,102160.030000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-06,2025-06-20,psei,PSEI,2025-06-20,6339.770020,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-06,2025-06-20,jfc,Jollibee Foods Corporation,2025-06-20,227.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-06,2025-06-20,tsla,Tesla,2025-06-20,322.160004,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-06,2025-06-20,aapl,Apple,2025-06-20,201.000000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-06,2025-06-20,msft,Microsoft,2025-06-20,477.399994,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-06,2025-06-20,nvda,NVIDIA,2025-06-20,143.850006,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-07,2025-07-18,sp500,S&P 500 price index,2025-07-18,6296.790000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-07,2025-07-18,nasdaq100,Nasdaq 100 price index,2025-07-18,23065.470000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-07,2025-07-18,bitcoin,Bitcoin USD price,2025-07-18,117914.170000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-07,2025-07-18,psei,PSEI,2025-07-18,6303.720215,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-07,2025-07-18,jfc,Jollibee Foods Corporation,2025-07-18,219.200000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-07,2025-07-18,tsla,Tesla,2025-07-18,329.649994,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-07,2025-07-18,aapl,Apple,2025-07-18,211.179993,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-07,2025-07-18,msft,Microsoft,2025-07-18,510.049988,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-07,2025-07-18,nvda,NVIDIA,2025-07-18,172.410004,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-08,2025-08-20,sp500,S&P 500 price index,2025-08-20,6395.780000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-08,2025-08-20,nasdaq100,Nasdaq 100 price index,2025-08-20,23249.570000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-08,2025-08-20,bitcoin,Bitcoin USD price,2025-08-20,112480.300000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-08,2025-08-20,psei,PSEI,2025-08-20,6277.870117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-08,2025-08-20,jfc,Jollibee Foods Corporation,2025-08-20,234.800000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-08,2025-08-20,tsla,Tesla,2025-08-20,323.899994,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-08,2025-08-20,aapl,Apple,2025-08-20,226.009995,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-08,2025-08-20,msft,Microsoft,2025-08-20,505.720001,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-08,2025-08-20,nvda,NVIDIA,2025-08-20,175.399994,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-09,2025-09-19,sp500,S&P 500 price index,2025-09-19,6664.360000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-09,2025-09-19,nasdaq100,Nasdaq 100 price index,2025-09-19,24626.250000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-09,2025-09-19,bitcoin,Bitcoin USD price,2025-09-19,115752.400000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-09,2025-09-19,psei,PSEI,2025-09-19,6264.490234,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-09,2025-09-19,jfc,Jollibee Foods Corporation,2025-09-19,218.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-09,2025-09-19,tsla,Tesla,2025-09-19,426.070007,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-09,2025-09-19,aapl,Apple,2025-09-19,245.500000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-09,2025-09-19,msft,Microsoft,2025-09-19,517.929993,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-09,2025-09-19,nvda,NVIDIA,2025-09-19,176.669998,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-10,2025-10-20,sp500,S&P 500 price index,2025-10-20,6735.130000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-10,2025-10-20,nasdaq100,Nasdaq 100 price index,2025-10-20,25141.020000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-10,2025-10-20,bitcoin,Bitcoin USD price,2025-10-20,108362.270000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-10,2025-10-20,psei,PSEI,2025-10-20,6084.069824,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-10,2025-10-20,jfc,Jollibee Foods Corporation,2025-10-20,218.400000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-10,2025-10-20,tsla,Tesla,2025-10-20,447.429993,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-10,2025-10-20,aapl,Apple,2025-10-20,262.239990,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-10,2025-10-20,msft,Microsoft,2025-10-20,516.789978,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-10,2025-10-20,nvda,NVIDIA,2025-10-20,182.639999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-11,2025-11-20,sp500,S&P 500 price index,2025-11-20,6538.760000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-11,2025-11-20,nasdaq100,Nasdaq 100 price index,2025-11-20,24054.380000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-11,2025-11-20,bitcoin,Bitcoin USD price,2025-11-20,87214.000000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-11,2025-11-20,psei,PSEI,2025-11-20,5930.810059,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-11,2025-11-20,jfc,Jollibee Foods Corporation,2025-11-20,195.100000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-11,2025-11-20,tsla,Tesla,2025-11-20,395.230011,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-11,2025-11-20,aapl,Apple,2025-11-20,266.250000,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-11,2025-11-20,msft,Microsoft,2025-11-20,478.429993,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-11,2025-11-20,nvda,NVIDIA,2025-11-20,180.639999,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2025-12,2025-12-19,sp500,S&P 500 price index,2025-12-19,6834.500000,exact_date,https://fred.stlouisfed.org/series/SP500
+2025-12,2025-12-19,nasdaq100,Nasdaq 100 price index,2025-12-19,25346.180000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2025-12,2025-12-19,bitcoin,Bitcoin USD price,2025-12-19,88016.090000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2025-12,2025-12-19,psei,PSEI,2025-12-19,5920.870117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2025-12,2025-12-19,jfc,Jollibee Foods Corporation,2025-12-19,181.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2025-12,2025-12-19,tsla,Tesla,2025-12-19,481.200012,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2025-12,2025-12-19,aapl,Apple,2025-12-19,273.670013,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2025-12,2025-12-19,msft,Microsoft,2025-12-19,485.920013,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2025-12,2025-12-19,nvda,NVIDIA,2025-12-19,180.990005,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2026-01,2026-01-20,sp500,S&P 500 price index,2026-01-20,6796.860000,exact_date,https://fred.stlouisfed.org/series/SP500
+2026-01,2026-01-20,nasdaq100,Nasdaq 100 price index,2026-01-20,24987.570000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2026-01,2026-01-20,bitcoin,Bitcoin USD price,2026-01-20,88916.020000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2026-01,2026-01-20,psei,PSEI,2026-01-20,6352.859863,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2026-01,2026-01-20,jfc,Jollibee Foods Corporation,2026-01-20,209.400000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2026-01,2026-01-20,tsla,Tesla,2026-01-20,419.250000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2026-01,2026-01-20,aapl,Apple,2026-01-20,246.699997,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2026-01,2026-01-20,msft,Microsoft,2026-01-20,454.519989,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2026-01,2026-01-20,nvda,NVIDIA,2026-01-20,178.070007,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2026-02,2026-02-20,sp500,S&P 500 price index,2026-02-20,6909.510000,exact_date,https://fred.stlouisfed.org/series/SP500
+2026-02,2026-02-20,nasdaq100,Nasdaq 100 price index,2026-02-20,25012.620000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2026-02,2026-02-20,bitcoin,Bitcoin USD price,2026-02-20,67885.320000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2026-02,2026-02-20,psei,PSEI,2026-02-20,6465.120117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2026-02,2026-02-20,jfc,Jollibee Foods Corporation,2026-02-20,208.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2026-02,2026-02-20,tsla,Tesla,2026-02-20,411.820007,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2026-02,2026-02-20,aapl,Apple,2026-02-20,264.579987,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2026-02,2026-02-20,msft,Microsoft,2026-02-20,397.230011,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2026-02,2026-02-20,nvda,NVIDIA,2026-02-20,189.820007,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2026-03,2026-03-19,sp500,S&P 500 price index,2026-03-19,6606.490000,exact_date,https://fred.stlouisfed.org/series/SP500
+2026-03,2026-03-19,nasdaq100,Nasdaq 100 price index,2026-03-19,24355.280000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2026-03,2026-03-19,bitcoin,Bitcoin USD price,2026-03-19,69858.950000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2026-03,2026-03-19,psei,PSEI,2026-03-19,6018.620117,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2026-03,2026-03-19,jfc,Jollibee Foods Corporation,2026-03-19,185.000000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2026-03,2026-03-19,tsla,Tesla,2026-03-19,380.299988,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2026-03,2026-03-19,aapl,Apple,2026-03-19,248.960007,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2026-03,2026-03-19,msft,Microsoft,2026-03-19,389.019989,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2026-03,2026-03-19,nvda,NVIDIA,2026-03-19,178.559998,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2026-04,2026-04-20,sp500,S&P 500 price index,2026-04-20,7109.140000,exact_date,https://fred.stlouisfed.org/series/SP500
+2026-04,2026-04-20,nasdaq100,Nasdaq 100 price index,2026-04-20,26590.340000,exact_date,https://fred.stlouisfed.org/series/NASDAQ100
+2026-04,2026-04-20,bitcoin,Bitcoin USD price,2026-04-20,75854.660000,exact_date,https://fred.stlouisfed.org/series/CBBTCUSD
+2026-04,2026-04-20,psei,PSEI,2026-04-20,6016.029785,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2026-04,2026-04-20,jfc,Jollibee Foods Corporation,2026-04-20,161.400000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2026-04,2026-04-20,tsla,Tesla,2026-04-20,392.500000,exact_date,https://finance.yahoo.com/quote/TSLA/history
+2026-04,2026-04-20,aapl,Apple,2026-04-20,273.049988,exact_date,https://finance.yahoo.com/quote/AAPL/history
+2026-04,2026-04-20,msft,Microsoft,2026-04-20,418.070007,exact_date,https://finance.yahoo.com/quote/MSFT/history
+2026-04,2026-04-20,nvda,NVIDIA,2026-04-20,202.059998,exact_date,https://finance.yahoo.com/quote/NVDA/history
+2026-05,2026-05-07,sp500,S&P 500 price index,2026-05-06,7365.120000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/SP500
+2026-05,2026-05-07,nasdaq100,Nasdaq 100 price index,2026-05-06,28599.170000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/NASDAQ100
+2026-05,2026-05-07,bitcoin,Bitcoin USD price,2026-05-06,81476.510000,nearest_prior_trading_day,https://fred.stlouisfed.org/series/CBBTCUSD
+2026-05,2026-05-07,psei,PSEI,2026-05-07,6034.270020,exact_date,https://finance.yahoo.com/quote/PSEI.PS/history
+2026-05,2026-05-07,jfc,Jollibee Foods Corporation,2026-05-07,166.500000,exact_date,manual download: /Users/pickaneym/Downloads/JFC Historical Data.csv
+2026-05,2026-05-07,tsla,Tesla,2026-05-06,398.730011,nearest_prior_trading_day,https://finance.yahoo.com/quote/TSLA/history
+2026-05,2026-05-07,aapl,Apple,2026-05-06,287.510010,nearest_prior_trading_day,https://finance.yahoo.com/quote/AAPL/history
+2026-05,2026-05-07,msft,Microsoft,2026-05-06,413.959991,nearest_prior_trading_day,https://finance.yahoo.com/quote/MSFT/history
+2026-05,2026-05-07,nvda,NVIDIA,2026-05-06,207.830002,nearest_prior_trading_day,https://finance.yahoo.com/quote/NVDA/history

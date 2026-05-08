@@ -14,7 +14,7 @@ const props = withDefaults(defineProps<{
   coverLogo: '/oneqrew-ds-logo-light.svg',
   coverLogoAlt: 'OneQrew Digital Services logo',
   coverMeta: '',
-  footerText: 'OneQrew Digital Services',
+  footerText: 'WTF Manila',
 })
 </script>
 

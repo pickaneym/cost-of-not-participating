@@ -5,11 +5,14 @@
   "scripts": {
     "dev": "slidev slides/index.md --open",
     "build": "slidev build slides/index.md",
-    "export": "slidev export slides/index.md"
+    "build:pages": "slidev build slides/index.md --base /cost-of-not-participating/",
+    "export": "slidev export slides/index.md",
+    "test": "vitest run"
   },
   "devDependencies": {
     "@slidev/cli": "^52.14.0",
     "@slidev/theme-default": "latest",
-    "playwright-chromium": "latest"
+    "playwright-chromium": "latest",
+    "vitest": "^4.1.5"
   }
 }
