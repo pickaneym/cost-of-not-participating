@@ -1,20 +1,18 @@
 ---
 layout: cover
-coverMeta: Replace with date, audience, or event
-footerText: OneQrew Digital Services
+coverMeta: May 8, 2026
+footerText: WTF Manila
 ---
 
-# Your Presentation Title
+# WTF: The Cost of Not Participating
 
-<div class="oq-presenter-intro">
-  <div>
-    <p class="oq-presenter-name"><strong>Your Name</strong></p>
-    <p class="oq-presenter-role">Your role or team</p>
-    <ul>
-      <li>Replace this with a short speaker introduction.</li>
-      <li>Keep bullets concise so the cover stays balanced.</li>
-      <li>Use <span class="highlight-2">highlight-2</span> for yellow emphasis.</li>
-    </ul>
-  </div>
-  <img class="oq-presenter-photo" src="/presenter-photo.jpg" alt="Presenter photo placeholder">
-</div>
+<p class="oq-lede">A look at investing in tradable financial assets, especially stocks and index funds.</p>
+
+<ul>
+  <li>What choices can we actually make right now?</li>
+  <li>What market timing studies suggest?</li>
+  <li>What could have happened if only ...?</li>
+  <li>What happened in my own portfolio</li>
+</ul>
+
+<p class="oq-note">Disclaimer: I am not a financial advisor. This is for discussion and learning, not financial advice.</p>

@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useSlideContext } from '@slidev/client'
 import { computed } from 'vue'
+import { resolvePublicAssetUrl } from '../utils/assetUrl'
 
 const { $page } = useSlideContext()
 const pageNo = computed(() => String($page.value).padStart(2, '0'))
@@ -14,8 +15,10 @@ const props = withDefaults(defineProps<{
   coverLogo: '/oneqrew-ds-logo-light.svg',
   coverLogoAlt: 'OneQrew Digital Services logo',
   coverMeta: '',
-  footerText: 'OneQrew Digital Services',
+  footerText: 'WTF Manila',
 })
+
+const coverLogoSrc = computed(() => resolvePublicAssetUrl(props.coverLogo))
 </script>
 
 <template>
@@ -23,7 +26,7 @@ const props = withDefaults(defineProps<{
     <div class="oq-cover-inner">
       <header class="oq-cover-header">
         <img
-          :src="props.coverLogo"
+          :src="coverLogoSrc"
           :alt="props.coverLogoAlt"
         >
         <p class="oq-cover-meta">{{ props.coverMeta }}</p>

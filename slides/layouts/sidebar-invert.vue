@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useSlideContext } from '@slidev/client'
 import { computed, ref, watch } from 'vue'
+import { resolvePublicAssetUrl } from '../utils/assetUrl'
 import { type SidebarBody, useSidebarMeta } from './useSidebarMeta'
 
 const { $page } = useSlideContext()
@@ -20,8 +21,11 @@ const props = withDefaults(defineProps<{
   sidebarLogo: '/oneqrew-ds-logo-light.svg',
   sidebarLogoAlt: 'OneQrew Digital Services logo',
   sidebarBodyImageAlt: 'Sidebar illustration',
-  footerText: 'OneQrew Digital Services',
+  footerText: 'WTF Manila',
 })
+
+const sidebarLogoSrc = computed(() => resolvePublicAssetUrl(props.sidebarLogo))
+const sidebarBodyImageSrc = computed(() => resolvePublicAssetUrl(props.sidebarBodyImage))
 
 const {
   contentRef,
@@ -61,7 +65,7 @@ watch(isImageModalOpen, (isOpen, _, onCleanup) => {
   <div class="slidev-layout oneqrew-detail oneqrew-detail--sidebar-dark">
     <aside class="oq-side">
       <img
-        :src="props.sidebarLogo"
+        :src="sidebarLogoSrc"
         :alt="props.sidebarLogoAlt"
       >
       <p class="oq-kicker">{{ sidebarKicker }}</p>
@@ -80,7 +84,7 @@ watch(isImageModalOpen, (isOpen, _, onCleanup) => {
         >
           <img
             class="oq-side-body-image"
-            :src="props.sidebarBodyImage"
+            :src="sidebarBodyImageSrc"
             :alt="props.sidebarBodyImageAlt"
           >
         </button>
@@ -126,7 +130,7 @@ watch(isImageModalOpen, (isOpen, _, onCleanup) => {
       <img
         v-if="props.sidebarBodyImage"
         class="oq-image-modal-content"
-        :src="props.sidebarBodyImage"
+        :src="sidebarBodyImageSrc"
         :alt="props.sidebarBodyImageAlt"
       >
     </div>
